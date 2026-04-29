@@ -1,0 +1,1001 @@
+Order_ID,Customer_Name,Brand,Item_Name,Storage_Capacity,Price_PHP,Quantity,Order_Date,Payment_Method,Delivery_Status,Warranty_Years
+1,Erin O'Nions,Samsung,,1TB,65633,5,2025-05-17,Credit Card,Cancelled,1
+2,Davidde Gaggen,Xiaomi,,512GB,70838,5,2024-02-11,Maya,Processing,3
+3,Jephthah Martyns,Xiaomi,,1TB,85935,5,2024-11-06,GCash,Cancelled,1
+4,Reube Limeburn,Oneplus,,1TB,82357,4,2025-09-30,Maya,Cancelled,1
+5,Maria Perview,Google,,256GB,82415,1,2024-08-22,Credit Card,Delivered,1
+6,Cesar Trendle,Samsung,,128GB,24993,2,2025-02-16,Cash,Shipped,2
+7,Celine Spurryer,Oneplus,,512GB,60285,5,2024-02-19,Maya,Shipped,1
+8,Skipp Osgodby,Xiaomi,,512GB,50164,4,2024-11-07,Credit Card,Shipped,2
+9,Tiphany Snasel,Samsung,,128GB,75577,2,2025-12-05,PayPal,Cancelled,3
+10,Mikey Gley,Google,,256GB,68643,2,2025-07-18,PayPal,Processing,3
+11,Eachelle Aspinall,Google,,256GB,16731,2,2024-07-22,Credit Card,Delivered,2
+12,Thaddeus Wartnaby,Apple,,512GB,80549,3,2025-01-06,Maya,Delivered,3
+13,Innis Sweeting,Oneplus,,512GB,48195,1,2024-08-27,Credit Card,Shipped,1
+14,Alvina Ather,Samsung,,512GB,47797,3,2024-01-06,Cash,Delivered,3
+15,Forrester Dalli,Xiaomi,,1TB,37225,2,2025-08-03,Credit Card,Delivered,2
+16,Edie Fancutt,Apple,,512GB,88881,5,2024-10-10,Cash,Processing,2
+17,Carola Pettus,Google,,512GB,49007,2,2024-05-28,Cash,Cancelled,3
+18,Giovanni Hackin,Apple,,1TB,34139,5,2024-12-06,Maya,Shipped,2
+19,Maureene Stephen,Oneplus,,1TB,55284,5,2025-08-25,Maya,Shipped,3
+20,Sarina Meredith,Oneplus,,512GB,20197,3,2025-12-03,Cash,Processing,1
+21,Consalve Paulin,Oneplus,,128GB,90031,5,2025-09-05,GCash,Shipped,1
+22,Nat McCloughen,Apple,,512GB,44283,4,2025-05-23,Credit Card,Delivered,3
+23,Levi Fear,Oneplus,,256GB,86249,3,2024-10-28,GCash,Shipped,3
+24,Tessi Fearneley,Google,,1TB,56166,1,2025-10-29,Credit Card,Cancelled,1
+25,Marilin Cadwaladr,Oneplus,,128GB,21490,5,2024-10-08,Maya,Cancelled,3
+26,Dani Sweetnam,Google,,128GB,40927,5,2025-10-31,Maya,Delivered,1
+27,Worthy Hubane,Apple,,512GB,51585,2,2025-09-20,Credit Card,Delivered,1
+28,Kristofer Slessar,Google,,256GB,36133,5,2025-02-02,Credit Card,Shipped,3
+29,Terencio Dany,Oneplus,,128GB,48140,3,2024-12-04,PayPal,Cancelled,3
+30,Elmira Marklund,Oneplus,,256GB,37281,2,2024-05-16,PayPal,Delivered,2
+31,Scotty Kuzemka,Google,,256GB,62553,2,2024-09-28,GCash,Cancelled,2
+32,Meggi Shanahan,Google,,256GB,64557,2,2024-04-21,Cash,Processing,3
+33,Andree Craigg,Google,,1TB,21615,3,2024-05-13,Maya,Cancelled,3
+34,Carlota O'Heyne,Oneplus,,128GB,92048,1,2024-07-18,PayPal,Delivered,3
+35,Ayn Prandy,Xiaomi,,128GB,26253,4,2024-05-17,Cash,Cancelled,2
+36,Emelda Alliker,Apple,,1TB,83134,1,2024-03-12,Cash,Cancelled,1
+37,Jonis de Leon,Google,,512GB,81911,2,2024-07-25,Cash,Shipped,3
+38,Kendall Fishenden,Samsung,,512GB,52964,1,2025-06-29,Maya,Cancelled,2
+39,Nertie Petheridge,Xiaomi,,256GB,30067,4,2025-12-19,Credit Card,Delivered,1
+40,Brigit Strank,Oneplus,,128GB,61740,1,2024-06-08,GCash,Shipped,3
+41,Justis Acreman,Apple,,128GB,86670,1,2024-04-02,Cash,Shipped,3
+42,Tasia Tebbitt,Xiaomi,,256GB,25798,5,2025-07-23,Maya,Processing,3
+43,Ethelyn McKearnen,Oneplus,,512GB,62477,2,2024-08-07,Maya,Delivered,3
+44,Wayland Haverty,Samsung,,1TB,20420,3,2024-07-31,Credit Card,Cancelled,2
+45,Becky Francesconi,Samsung,,1TB,66287,1,2025-08-08,Cash,Delivered,2
+46,Ingelbert Nicklen,Samsung,,128GB,31457,1,2024-07-04,Credit Card,Shipped,2
+47,Marlane Bennit,Oneplus,,128GB,22591,2,2025-03-27,PayPal,Cancelled,3
+48,Lyndy Rotte,Samsung,,256GB,43313,5,2025-10-03,Cash,Cancelled,3
+49,Hilliard Rhyme,Oneplus,,128GB,93872,5,2025-05-23,GCash,Shipped,3
+50,Ashton Chadderton,Oneplus,,256GB,32095,2,2024-08-06,Credit Card,Shipped,1
+51,Vonny Breming,Samsung,,512GB,76737,5,2025-10-12,Credit Card,Processing,3
+52,Faythe McCloughlin,Apple,,1TB,84539,2,2024-05-28,Maya,Processing,3
+53,Adriaens Cage,Apple,,128GB,92986,1,2025-12-26,PayPal,Processing,3
+54,Evey Ricciardello,Oneplus,,128GB,40567,1,2024-02-21,PayPal,Shipped,2
+55,Karoly Cafferky,Oneplus,,256GB,94127,3,2025-04-21,Credit Card,Cancelled,3
+56,Ingeborg Caselick,Oneplus,,128GB,31760,4,2025-02-12,Cash,Cancelled,3
+57,Nicol Grigorio,Oneplus,,256GB,61931,2,2024-03-08,Cash,Delivered,2
+58,Kellyann Peyntue,Xiaomi,,1TB,91982,5,2025-03-08,PayPal,Shipped,2
+59,Brunhilda Wear,Xiaomi,,128GB,37004,1,2025-07-11,Maya,Cancelled,3
+60,Marys Senussi,Samsung,,256GB,55513,5,2024-02-10,PayPal,Processing,1
+61,Deni Ticic,Samsung,,512GB,86847,5,2025-06-19,Credit Card,Shipped,3
+62,Minta McFarlan,Apple,,128GB,30354,4,2025-10-21,Maya,Cancelled,2
+63,Bambie Atwool,Samsung,,128GB,57346,5,2024-10-13,PayPal,Delivered,2
+64,Hortense Glanville,Xiaomi,,256GB,83060,3,2025-02-26,GCash,Delivered,2
+65,Ramon Dederick,Xiaomi,,512GB,20027,5,2025-07-11,Maya,Cancelled,3
+66,Andre Jonsson,Oneplus,,256GB,66471,2,2025-10-06,GCash,Cancelled,2
+67,Bink Josefsson,Samsung,,256GB,90794,5,2024-09-21,PayPal,Processing,1
+68,Clayborne Trounson,Xiaomi,,512GB,78597,1,2025-04-19,Cash,Processing,1
+69,Dene Abrahams,Google,,128GB,89265,4,2024-08-18,Maya,Delivered,3
+70,Tomi Iscowitz,Apple,,128GB,82723,5,2024-05-08,Maya,Cancelled,3
+71,Grissel Richardes,Oneplus,,512GB,21195,1,2025-03-04,Cash,Processing,2
+72,Cary Conner,Apple,,128GB,45149,5,2025-11-17,GCash,Cancelled,2
+73,Pavla Yannikov,Google,,256GB,48568,2,2024-06-03,PayPal,Processing,1
+74,Bogart Hambribe,Oneplus,,1TB,86733,4,2025-05-29,GCash,Processing,2
+75,Saunder Birkinshaw,Xiaomi,,512GB,75731,1,2025-12-03,Maya,Processing,1
+76,Gaultiero Mogra,Xiaomi,,256GB,15782,1,2024-08-10,PayPal,Shipped,3
+77,Eloise Greenhalf,Oneplus,,128GB,53849,3,2024-05-21,Maya,Cancelled,3
+78,Hestia MacBarron,Google,,1TB,46020,5,2024-10-17,Cash,Processing,2
+79,Emmalynn Scole,Apple,,128GB,20788,2,2025-04-15,Credit Card,Delivered,3
+80,Ezequiel Tincknell,Samsung,,256GB,51387,3,2025-11-28,Cash,Shipped,2
+81,Miriam Gorick,Oneplus,,256GB,90741,2,2024-05-22,GCash,Cancelled,2
+82,Zelig Ferrarese,Apple,,256GB,28184,3,2024-06-25,Maya,Delivered,3
+83,Zolly Sever,Apple,,256GB,94179,5,2025-02-26,Cash,Cancelled,3
+84,Homer Halladay,Samsung,,256GB,88949,2,2024-05-13,Credit Card,Delivered,1
+85,Quint Crotty,Google,,512GB,17286,2,2025-01-11,GCash,Processing,2
+86,Jarred Eilhertsen,Samsung,,256GB,71657,4,2024-02-12,PayPal,Shipped,2
+87,Brade Alsobrook,Apple,,256GB,82640,1,2024-12-02,PayPal,Processing,3
+88,Winona Postance,Xiaomi,,128GB,81261,1,2024-08-15,Maya,Delivered,3
+89,Farrah Surplice,Apple,,1TB,46589,2,2025-02-11,Credit Card,Cancelled,3
+90,Godard Hugnet,Google,,256GB,70528,1,2024-07-13,Cash,Processing,1
+91,Brannon Paschek,Samsung,,1TB,39626,2,2025-08-04,Maya,Delivered,2
+92,Dulci Berg,Samsung,,128GB,67143,2,2024-10-15,Maya,Delivered,1
+93,Yvette Bayldon,Samsung,,512GB,43817,2,2024-09-24,PayPal,Cancelled,3
+94,Karlie Assante,Xiaomi,,128GB,54110,1,2024-05-10,Cash,Delivered,3
+95,Bibbie MacAne,Xiaomi,,128GB,77573,1,2025-11-27,Maya,Cancelled,1
+96,Barnie Jiracek,Google,,128GB,79406,3,2024-01-09,GCash,Cancelled,2
+97,Blinny Grote,Samsung,,128GB,47295,5,2024-06-30,Cash,Cancelled,3
+98,Nap Gartrell,Samsung,,128GB,44748,2,2025-05-25,Maya,Shipped,2
+99,Fenelia Woofinden,Oneplus,,128GB,60607,2,2024-09-18,GCash,Processing,2
+100,Jade Gowler,Samsung,,512GB,29493,4,2025-01-19,PayPal,Cancelled,2
+101,Giusto Cullinan,Samsung,,256GB,15968,1,2024-04-29,Maya,Processing,3
+102,Cletus Gallafant,Google,,512GB,78994,1,2025-01-24,Credit Card,Processing,1
+103,Paco Silley,Samsung,,256GB,33914,5,2024-03-09,Cash,Shipped,3
+104,Corbet Stairmand,Google,,256GB,18278,2,2024-12-18,Cash,Cancelled,3
+105,Mirabelle Whitehead,Oneplus,,1TB,68315,3,2024-04-26,Cash,Shipped,3
+106,Clemente Coalbran,Google,,128GB,86712,3,2024-01-17,PayPal,Shipped,2
+107,Vicki Lennie,Google,,256GB,31436,5,2024-03-09,PayPal,Cancelled,2
+108,Honor De la Perrelle,Oneplus,,256GB,89455,2,2024-01-14,Maya,Processing,2
+109,Tremayne Humber,Google,,512GB,83102,1,2025-09-09,Maya,Cancelled,2
+110,Gabriel Bridgeland,Oneplus,,256GB,93766,4,2025-01-14,Maya,Processing,3
+111,Burlie Skune,Xiaomi,,1TB,54025,4,2025-07-09,PayPal,Delivered,2
+112,Conrado Barzen,Oneplus,,1TB,67539,5,2025-09-06,Cash,Cancelled,1
+113,Pollyanna Stag,Samsung,,512GB,62779,5,2025-03-13,PayPal,Processing,3
+114,Kele Dockrell,Google,,128GB,70310,4,2025-12-11,Maya,Delivered,3
+115,Vivianne Houlden,Google,,1TB,45451,3,2025-08-10,Credit Card,Processing,3
+116,Ham Simnel,Google,,1TB,66611,3,2024-04-04,PayPal,Processing,3
+117,Hewet Royden,Google,,1TB,79833,2,2025-03-12,GCash,Cancelled,3
+118,Wilfrid Wilber,Samsung,,512GB,44468,5,2024-01-29,GCash,Delivered,1
+119,Amaleta Impey,Apple,,128GB,57004,2,2025-01-17,GCash,Processing,2
+120,Chiquita Verner,Apple,,512GB,16597,4,2024-11-19,PayPal,Shipped,3
+121,Benni Chadwin,Samsung,,512GB,43996,3,2025-06-12,Cash,Delivered,2
+122,Mill Grigori,Oneplus,,1TB,28996,1,2024-07-28,GCash,Shipped,2
+123,Job Bingham,Google,,512GB,42510,2,2025-10-27,PayPal,Delivered,2
+124,Turner Cicchillo,Samsung,,128GB,81111,5,2024-02-24,Cash,Delivered,1
+125,Zared Kippax,Apple,,1TB,26061,4,2025-08-31,PayPal,Processing,3
+126,Dante Ludwikiewicz,Google,,512GB,17060,5,2024-02-07,Cash,Delivered,3
+127,Durand Walhedd,Apple,,1TB,43091,1,2025-07-20,PayPal,Delivered,1
+128,Sheela Beels,Oneplus,,512GB,26005,5,2025-04-03,Maya,Delivered,3
+129,Shirlee Burndred,Google,,1TB,32858,2,2024-10-18,Credit Card,Processing,3
+130,Dukie Oliva,Samsung,,1TB,37437,4,2025-12-04,Maya,Delivered,3
+131,Christie Matley,Apple,,1TB,59213,4,2024-07-21,Cash,Cancelled,1
+132,Hillary Christophersen,Samsung,,512GB,61076,2,2025-04-01,PayPal,Cancelled,1
+133,Carola D'Ruel,Samsung,,512GB,90871,3,2025-05-22,PayPal,Delivered,1
+134,Beatriz Gardner,Oneplus,,1TB,48003,4,2025-10-02,PayPal,Delivered,3
+135,Neil Yesichev,Google,,512GB,61878,4,2024-01-26,Credit Card,Cancelled,2
+136,Camille Gainseford,Xiaomi,,512GB,84955,5,2025-06-19,Maya,Cancelled,2
+137,Angy Frediani,Oneplus,,256GB,65874,4,2024-08-18,GCash,Delivered,1
+138,Gawen Toon,Samsung,,512GB,75752,4,2025-10-10,Cash,Delivered,2
+139,Ray Chorley,Oneplus,,1TB,89616,2,2024-01-15,GCash,Delivered,3
+140,Georgeanne Grimme,Google,,256GB,52620,5,2024-12-14,Cash,Processing,2
+141,Prescott Howitt,Oneplus,,1TB,62672,2,2024-01-12,Maya,Processing,1
+142,Jeannie Storek,Xiaomi,,1TB,87090,4,2025-03-15,GCash,Processing,2
+143,Enoch Hopkins,Samsung,,512GB,64700,3,2024-09-27,Maya,Cancelled,2
+144,Willow Jeduch,Xiaomi,,512GB,16738,4,2025-09-23,GCash,Cancelled,2
+145,Dora Kacheler,Google,,512GB,46806,3,2025-02-24,GCash,Delivered,2
+146,Latrina Matthesius,Oneplus,,128GB,63465,5,2024-04-23,Credit Card,Delivered,3
+147,Orran Stubbings,Apple,,128GB,71520,5,2024-01-15,Credit Card,Delivered,2
+148,Beilul Kerby,Samsung,,128GB,49956,2,2025-07-08,PayPal,Cancelled,3
+149,Hildagarde Dunsmore,Xiaomi,,256GB,62347,5,2025-12-28,PayPal,Processing,1
+150,Avis Iacapucci,Samsung,,128GB,36694,3,2025-06-12,Cash,Shipped,3
+151,Wayland Soames,Apple,,512GB,37852,2,2025-08-26,Credit Card,Cancelled,2
+152,Mortie Ableson,Apple,,512GB,27194,5,2025-01-05,Credit Card,Shipped,2
+153,Lola Radloff,Oneplus,,512GB,22566,5,2024-07-15,Credit Card,Delivered,2
+154,Lion Burnell,Samsung,,1TB,17898,2,2025-10-18,GCash,Processing,3
+155,Katerina Izzard,Xiaomi,,1TB,60101,4,2024-08-05,PayPal,Delivered,3
+156,Werner Corbridge,Samsung,,512GB,32296,2,2025-01-27,Cash,Delivered,2
+157,Tobiah Tills,Oneplus,,512GB,76852,3,2025-06-28,Maya,Delivered,3
+158,Sherilyn Quilliam,Oneplus,,512GB,37087,3,2024-04-08,PayPal,Shipped,1
+159,Maia Fass,Samsung,,256GB,17694,5,2024-08-08,Maya,Shipped,1
+160,Miller Oxenham,Oneplus,,128GB,39096,2,2024-06-22,Maya,Shipped,1
+161,Auguste Casswell,Xiaomi,,128GB,86537,3,2024-02-17,GCash,Cancelled,1
+162,Josey Hanford,Google,,256GB,47305,2,2024-06-26,PayPal,Delivered,3
+163,Zacharia Leithgoe,Samsung,,1TB,69445,1,2025-10-31,Cash,Cancelled,3
+164,Georgeta Mammatt,Oneplus,,128GB,36931,3,2025-07-05,Cash,Processing,2
+165,Sandra Duddridge,Apple,,1TB,47810,1,2025-10-03,Cash,Cancelled,1
+166,Johanna Boardman,Apple,,128GB,83002,5,2025-11-28,Maya,Delivered,1
+167,Kimball Duncklee,Xiaomi,,256GB,52112,2,2024-10-08,Maya,Delivered,1
+168,Aline Tabourel,Apple,,512GB,66759,5,2024-04-18,Credit Card,Cancelled,2
+169,Vail Joire,Apple,,512GB,72831,5,2024-04-12,PayPal,Processing,2
+170,Karoly Ellett,Apple,,1TB,87711,5,2024-01-02,Cash,Processing,3
+171,Husein Crookshank,Apple,,128GB,84315,2,2025-07-07,PayPal,Cancelled,2
+172,Will Newvell,Apple,,1TB,30344,4,2025-03-19,Cash,Cancelled,3
+173,Turner Kramer,Samsung,,512GB,79210,1,2024-02-22,GCash,Cancelled,2
+174,Sonia Striker,Oneplus,,128GB,25698,4,2024-01-17,PayPal,Shipped,1
+175,Ernestus Koschek,Xiaomi,,1TB,88954,2,2024-11-05,PayPal,Cancelled,2
+176,Wilie Dell'Abbate,Oneplus,,1TB,22182,1,2025-05-08,Credit Card,Processing,3
+177,Brantley Neligan,Google,,1TB,85680,3,2025-08-26,PayPal,Delivered,2
+178,Tess Peltz,Xiaomi,,512GB,23134,2,2025-09-03,GCash,Shipped,3
+179,Garold Howman,Xiaomi,,1TB,54085,3,2025-05-25,Credit Card,Shipped,2
+180,Nefen Tinson,Samsung,,512GB,81725,4,2024-02-25,Cash,Delivered,3
+181,Kalvin Forshaw,Samsung,,1TB,34824,3,2025-05-13,GCash,Processing,1
+182,Gerianne Livard,Samsung,,512GB,66513,1,2024-06-03,Credit Card,Processing,3
+183,Carlina Beggan,Google,,256GB,72508,1,2024-02-16,Cash,Processing,3
+184,Felicio Storrar,Apple,,512GB,69260,4,2025-06-15,Cash,Shipped,2
+185,Elsbeth Wetherill,Oneplus,,128GB,24768,2,2025-03-31,GCash,Shipped,2
+186,Decca Mizzen,Samsung,,512GB,88406,3,2025-09-07,Credit Card,Cancelled,2
+187,Torin Deighan,Apple,,512GB,28471,2,2025-02-27,GCash,Cancelled,2
+188,Teri Kristoffersen,Google,,512GB,35718,3,2024-01-14,PayPal,Cancelled,2
+189,Ward Denniss,Oneplus,,1TB,89528,4,2024-02-13,GCash,Cancelled,2
+190,Finlay Langworthy,Samsung,,256GB,63128,1,2024-08-16,Maya,Shipped,1
+191,Sanford Shiels,Apple,,256GB,63960,1,2025-12-29,Maya,Delivered,3
+192,Ali Heam,Oneplus,,256GB,20468,1,2024-04-08,GCash,Shipped,1
+193,Hynda Kapelhoff,Google,,256GB,24874,4,2024-01-01,Credit Card,Cancelled,3
+194,Cort Hailey,Google,,256GB,50217,5,2025-02-09,Cash,Shipped,2
+195,Gennie Mouland,Oneplus,,128GB,19346,4,2025-02-25,Cash,Cancelled,3
+196,Jamima Bosomworth,Samsung,,1TB,53237,1,2024-12-07,Maya,Cancelled,2
+197,Derrik Blunn,Apple,,512GB,40537,1,2024-02-29,GCash,Processing,1
+198,Jarred M'Chirrie,Xiaomi,,256GB,90782,1,2024-11-03,GCash,Delivered,2
+199,Ario Tupp,Xiaomi,,128GB,70159,2,2025-11-02,Maya,Delivered,2
+200,Fairfax Pavett,Samsung,,256GB,29547,3,2024-04-10,PayPal,Shipped,1
+201,Jareb McKeand,Google,,1TB,51682,3,2024-05-29,GCash,Shipped,2
+202,Ase Garratty,Samsung,,1TB,53733,5,2024-01-24,Cash,Shipped,3
+203,Artemis Darragon,Oneplus,,512GB,49759,5,2024-05-13,Maya,Cancelled,2
+204,Staci Fleming,Oneplus,,256GB,28685,1,2024-05-09,PayPal,Shipped,1
+205,Vida Salomon,Oneplus,,128GB,47214,1,2025-01-06,GCash,Cancelled,1
+206,Norrie Bonallick,Samsung,,256GB,20058,4,2024-11-17,GCash,Processing,3
+207,Woodie Kime,Samsung,,256GB,31853,1,2025-03-19,Credit Card,Delivered,1
+208,Byram Bonsall,Oneplus,,256GB,23569,2,2024-12-18,PayPal,Shipped,1
+209,Rollie Philippart,Xiaomi,,512GB,52776,5,2025-04-12,Maya,Processing,1
+210,Farlay Mc Menamin,Samsung,,128GB,16358,2,2024-04-24,Cash,Cancelled,3
+211,Rufe Wheadon,Oneplus,,256GB,31269,2,2025-07-30,PayPal,Delivered,1
+212,Dee dee Morcom,Apple,,512GB,92414,4,2025-07-17,PayPal,Cancelled,1
+213,Tris Kuscha,Xiaomi,,256GB,30108,3,2025-03-03,Cash,Shipped,2
+214,Jerrold Crichley,Apple,,1TB,86524,2,2024-09-20,GCash,Cancelled,1
+215,Bernete Carswell,Apple,,512GB,20615,5,2024-08-18,PayPal,Shipped,3
+216,Papagena Duerdin,Oneplus,,256GB,56723,3,2024-02-22,GCash,Cancelled,2
+217,Elsbeth Grady,Google,,128GB,15477,1,2025-08-27,GCash,Processing,1
+218,Zachary MacCook,Samsung,,256GB,53028,2,2024-11-05,Credit Card,Cancelled,3
+219,Drona Leyman,Google,,128GB,42980,3,2024-03-18,Maya,Shipped,3
+220,Berri Le Monnier,Xiaomi,,128GB,71196,5,2024-07-12,PayPal,Cancelled,1
+221,Patrick Cases,Apple,,256GB,20367,1,2025-11-05,Credit Card,Cancelled,3
+222,Kalila Laverock,Apple,,512GB,58122,4,2024-11-12,Maya,Cancelled,3
+223,Maud Dickins,Google,,128GB,45314,5,2024-12-23,Cash,Shipped,2
+224,Angie Lilywhite,Xiaomi,,256GB,94168,5,2024-08-13,GCash,Processing,3
+225,Ingra Frankum,Xiaomi,,512GB,38917,5,2024-08-11,Maya,Cancelled,1
+226,Adore Totterdill,Samsung,,256GB,52457,4,2025-11-05,GCash,Cancelled,3
+227,Syman Finlason,Google,,512GB,29317,2,2024-01-17,Maya,Delivered,1
+228,Aimee Girdler,Xiaomi,,256GB,75220,1,2025-09-06,PayPal,Cancelled,2
+229,Ave Pisculli,Apple,,512GB,67289,2,2025-05-19,GCash,Cancelled,3
+230,Warden Hinkes,Oneplus,,128GB,50301,5,2025-08-18,Maya,Cancelled,1
+231,Terrill Ellcock,Google,,512GB,47557,3,2024-12-13,GCash,Delivered,2
+232,Leanna Harbron,Samsung,,1TB,46088,2,2024-01-04,Credit Card,Cancelled,3
+233,Jed Brewitt,Xiaomi,,1TB,74446,3,2025-06-01,Cash,Processing,2
+234,Eugine MacAlees,Xiaomi,,128GB,32135,1,2025-10-25,PayPal,Delivered,2
+235,Dougy Duham,Samsung,,512GB,91183,3,2024-12-13,Cash,Cancelled,2
+236,Ursala McCunn,Apple,,128GB,30752,2,2024-12-06,Cash,Delivered,2
+237,Diana Skerm,Google,,256GB,32433,1,2025-02-06,Cash,Processing,3
+238,Alicea Sawkin,Google,,128GB,84054,1,2025-08-27,Cash,Processing,3
+239,Maxy Goodredge,Oneplus,,512GB,73846,3,2024-02-12,PayPal,Shipped,1
+240,Lishe Philipsen,Oneplus,,128GB,66319,5,2025-04-03,Maya,Delivered,1
+241,Janie Silkston,Apple,,256GB,17022,3,2025-12-11,Cash,Processing,1
+242,Isidore Abdee,Oneplus,,512GB,37420,3,2024-03-13,Credit Card,Delivered,3
+243,Nerty Haggis,Apple,,256GB,79038,1,2024-04-03,GCash,Delivered,2
+244,Esme Phear,Xiaomi,,256GB,23918,1,2025-02-03,GCash,Processing,1
+245,Araldo McGaugie,Apple,,128GB,19790,2,2025-07-23,PayPal,Cancelled,1
+246,Aloise Iscowitz,Xiaomi,,1TB,54941,5,2024-12-22,PayPal,Shipped,3
+247,Sheeree Law,Oneplus,,1TB,23694,4,2024-01-04,Maya,Delivered,1
+248,Aguistin Stother,Apple,,1TB,78440,3,2024-01-29,Credit Card,Cancelled,3
+249,Annalee Pietzke,Apple,,512GB,58324,4,2025-10-15,GCash,Cancelled,1
+250,Celia Cranton,Apple,,256GB,53764,5,2025-04-06,Cash,Processing,1
+251,Haily Milton-White,Oneplus,,128GB,66001,2,2024-12-11,Maya,Shipped,2
+252,Barnaby Frowing,Google,,1TB,51233,5,2025-02-19,Credit Card,Delivered,2
+253,Sax Cabrales,Oneplus,,512GB,23344,3,2025-06-02,PayPal,Cancelled,3
+254,Devon Marzellano,Google,,512GB,68584,4,2024-08-22,GCash,Delivered,3
+255,Tab Cavozzi,Google,,512GB,24761,3,2024-04-13,Maya,Cancelled,3
+256,Ase Mosson,Apple,,1TB,33640,5,2024-05-26,GCash,Delivered,1
+257,Steven Vanyarkin,Xiaomi,,256GB,81518,1,2024-02-27,Maya,Processing,3
+258,Bourke Stanyon,Oneplus,,512GB,43844,2,2025-09-30,Credit Card,Shipped,2
+259,Devlin Burnes,Samsung,,256GB,19268,2,2024-03-02,Cash,Delivered,2
+260,Loralee Meth,Samsung,,512GB,78693,5,2024-07-09,PayPal,Shipped,3
+261,Nowell Avent,Oneplus,,256GB,36065,3,2025-03-15,PayPal,Shipped,3
+262,Heriberto Quest,Xiaomi,,512GB,61842,4,2024-08-02,Credit Card,Processing,2
+263,Charles Littlemore,Oneplus,,128GB,40759,4,2025-11-29,PayPal,Cancelled,1
+264,Nadeen Aaronsohn,Apple,,512GB,42659,4,2024-11-03,Credit Card,Cancelled,3
+265,Gerty Summersett,Samsung,,512GB,29176,2,2024-06-25,Credit Card,Delivered,3
+266,Ingrid Moggan,Apple,,256GB,87438,1,2024-06-11,PayPal,Shipped,1
+267,Franny Ambrozik,Xiaomi,,256GB,35281,3,2025-04-15,GCash,Cancelled,3
+268,Joy Spurdle,Oneplus,,256GB,78049,5,2025-08-08,PayPal,Cancelled,3
+269,Robbi Warrington,Samsung,,128GB,32239,5,2025-04-28,PayPal,Cancelled,1
+270,Inger Segebrecht,Xiaomi,,128GB,86488,1,2024-02-04,PayPal,Processing,2
+271,Rania Le Jean,Oneplus,,128GB,43550,4,2025-03-29,Cash,Processing,2
+272,Reece Scini,Google,,1TB,35452,3,2025-09-07,Credit Card,Shipped,2
+273,Ginny Crompton,Xiaomi,,256GB,18169,2,2025-08-02,PayPal,Cancelled,3
+274,Karalee Melmar,Google,,512GB,86778,5,2025-04-23,PayPal,Processing,2
+275,Sigismondo Jessett,Apple,,1TB,32003,5,2024-04-17,Credit Card,Cancelled,1
+276,Georgia Prine,Apple,,256GB,76790,5,2024-05-07,Cash,Cancelled,3
+277,Frederique Humblestone,Apple,,1TB,59173,2,2025-03-27,Credit Card,Shipped,1
+278,Roma Werndley,Samsung,,256GB,73485,2,2024-02-16,Credit Card,Processing,2
+279,Brade Sunshine,Xiaomi,,256GB,50144,5,2025-11-02,Cash,Processing,2
+280,Lilah Paquet,Xiaomi,,512GB,56667,5,2025-08-08,Cash,Delivered,3
+281,Wilhelm Newarte,Google,,128GB,46730,1,2024-12-31,Credit Card,Delivered,1
+282,Yetta Pidwell,Oneplus,,128GB,35344,3,2024-09-21,Credit Card,Processing,1
+283,Hillery Langshaw,Google,,1TB,41163,5,2025-04-17,PayPal,Delivered,1
+284,Mari Dunkinson,Oneplus,,128GB,78816,1,2024-05-31,Credit Card,Cancelled,1
+285,Sibbie Morsley,Xiaomi,,512GB,45839,4,2024-09-14,Credit Card,Cancelled,2
+286,Boris Tomadoni,Oneplus,,1TB,56363,2,2025-09-16,Maya,Delivered,2
+287,Gillian Pfaffe,Google,,1TB,72885,4,2024-03-13,Maya,Processing,1
+288,Kalila Eland,Apple,,1TB,54776,1,2024-11-25,Cash,Delivered,1
+289,Leyla Mallett,Oneplus,,512GB,82368,1,2024-08-22,PayPal,Processing,1
+290,Kelila Perse,Google,,1TB,21320,1,2025-08-10,Cash,Shipped,3
+291,Ronna Downing,Google,,128GB,38931,4,2024-02-04,Cash,Cancelled,1
+292,Gaylor Pascho,Samsung,,512GB,57808,1,2025-08-13,PayPal,Processing,2
+293,Josee Claffey,Google,,1TB,42315,5,2025-11-05,Maya,Processing,1
+294,Aluin Harbach,Google,,512GB,34183,5,2024-08-14,Maya,Shipped,2
+295,Nelson Murrum,Oneplus,,512GB,63636,5,2025-02-15,Cash,Processing,2
+296,Bastien Iveagh,Apple,,128GB,34360,1,2024-03-19,Maya,Processing,1
+297,Babs Sciusscietto,Apple,,512GB,75317,2,2025-07-11,PayPal,Processing,2
+298,Kristen Beevis,Apple,,256GB,59258,1,2025-03-13,Cash,Cancelled,3
+299,Joyann Bransby,Google,,1TB,69046,1,2025-08-30,Maya,Shipped,2
+300,Odille Dyment,Apple,,512GB,73750,2,2024-06-18,PayPal,Cancelled,2
+301,Clementius Wybourne,Apple,,1TB,66066,5,2025-08-22,Cash,Cancelled,2
+302,Boris Osband,Samsung,,1TB,32649,5,2025-09-07,GCash,Processing,3
+303,Dusty Jedras,Samsung,,256GB,71841,2,2024-12-29,Maya,Delivered,3
+304,Thane Prott,Oneplus,,1TB,91744,5,2025-01-04,GCash,Shipped,3
+305,Marabel Collishaw,Apple,,1TB,64517,1,2024-01-11,Credit Card,Shipped,3
+306,Kinny D'Alessandro,Oneplus,,128GB,81848,4,2025-02-22,Credit Card,Shipped,2
+307,Daven Dollen,Oneplus,,1TB,70063,3,2024-09-18,PayPal,Processing,3
+308,Donaugh Michieli,Oneplus,,512GB,36721,2,2024-04-07,Cash,Delivered,2
+309,Shannah Chaffer,Oneplus,,512GB,71646,3,2025-10-04,Credit Card,Processing,2
+310,Tedra Durker,Samsung,,1TB,22494,3,2025-06-19,Cash,Delivered,2
+311,Aubrie Chaplyn,Oneplus,,256GB,35110,1,2024-04-15,PayPal,Shipped,2
+312,Ethyl Dahlborg,Google,,128GB,84171,2,2025-01-23,PayPal,Cancelled,3
+313,Kaleb Bridell,Oneplus,,512GB,29837,2,2024-06-03,Cash,Delivered,3
+314,Shannah Kevern,Google,,512GB,29296,2,2024-03-09,Cash,Shipped,1
+315,Fidel Albrighton,Samsung,,128GB,77769,1,2025-05-17,Maya,Cancelled,2
+316,Burt Jackett,Google,,512GB,35234,4,2024-10-27,PayPal,Cancelled,3
+317,Whitaker Bodle,Google,,128GB,44136,1,2025-04-16,Maya,Processing,2
+318,Selinda Cunney,Oneplus,,512GB,50218,5,2024-12-17,Maya,Cancelled,1
+319,Bruis Booy,Samsung,,256GB,65825,1,2024-04-03,GCash,Shipped,1
+320,Manya Guttridge,Oneplus,,256GB,89515,2,2025-01-14,GCash,Delivered,1
+321,Hartwell O'Cannon,Google,,512GB,31540,1,2024-05-12,Maya,Processing,1
+322,Joscelin Ayris,Samsung,,1TB,22713,4,2024-04-17,Cash,Delivered,3
+323,Elna MacCumeskey,Oneplus,,512GB,46784,2,2024-02-16,PayPal,Delivered,1
+324,Drusilla Ethington,Apple,,128GB,74519,3,2025-06-14,Maya,Cancelled,1
+325,Deedee Kirsche,Samsung,,256GB,79707,4,2025-07-04,PayPal,Cancelled,2
+326,Tamas Dowdell,Xiaomi,,512GB,47262,5,2024-06-12,Cash,Shipped,3
+327,Thomasin Burchett,Xiaomi,,1TB,85107,4,2025-12-21,Cash,Delivered,2
+328,Etti Chancellor,Xiaomi,,512GB,44609,3,2025-09-18,GCash,Cancelled,3
+329,Xaviera Terrett,Apple,,1TB,20487,4,2024-07-06,Maya,Shipped,2
+330,Eddy Gouley,Apple,,128GB,93080,3,2025-10-02,PayPal,Processing,1
+331,Genevieve Ardling,Apple,,512GB,86969,5,2025-04-16,Maya,Cancelled,3
+332,Fancy Maunders,Samsung,,256GB,56129,1,2024-08-12,PayPal,Cancelled,1
+333,Edlin Dudley,Google,,512GB,80943,4,2024-10-14,PayPal,Delivered,3
+334,Farica Jakovijevic,Apple,,1TB,55628,4,2025-12-18,Maya,Cancelled,3
+335,Mathias Norley,Oneplus,,1TB,36322,5,2024-03-22,Maya,Processing,1
+336,Trescha Minelli,Samsung,,1TB,20875,2,2025-08-07,Maya,Delivered,1
+337,Karee Piotrkowski,Xiaomi,,128GB,47171,5,2024-06-22,Cash,Shipped,3
+338,Tildi Satterlee,Apple,,256GB,30226,3,2024-07-08,Maya,Cancelled,2
+339,Huntington Waterfall,Samsung,,1TB,94055,4,2025-08-17,Maya,Cancelled,2
+340,Natalee Zink,Samsung,,256GB,31611,2,2025-12-19,Credit Card,Shipped,3
+341,Kirby Suddick,Google,,512GB,91610,3,2024-06-11,Maya,Shipped,2
+342,Clare Bertelet,Oneplus,,256GB,26485,2,2024-12-29,Credit Card,Cancelled,2
+343,Mickie Peckitt,Oneplus,,1TB,15482,4,2025-10-16,Maya,Shipped,2
+344,Winona Rosendahl,Samsung,,1TB,18996,2,2025-08-08,GCash,Cancelled,1
+345,Lissie Gadeaux,Google,,1TB,68231,2,2024-08-13,GCash,Delivered,2
+346,Raddie Marshfield,Google,,128GB,42949,4,2024-04-05,Cash,Processing,1
+347,Courtney Cowdrey,Samsung,,1TB,31766,4,2024-06-13,GCash,Delivered,1
+348,Hercule Probetts,Oneplus,,512GB,47333,4,2025-11-03,GCash,Processing,2
+349,Westbrooke Bance,Xiaomi,,256GB,17023,3,2025-10-25,Maya,Processing,3
+350,Irita Roselli,Apple,,1TB,86632,1,2024-12-13,Cash,Delivered,2
+351,Norene Tarbox,Samsung,,512GB,63703,4,2025-05-30,PayPal,Processing,1
+352,Ferguson Heavyside,Google,,256GB,27461,4,2025-06-30,GCash,Delivered,1
+353,Geri Slyford,Samsung,,512GB,77340,1,2025-03-14,Maya,Cancelled,3
+354,Kiele Vaskin,Google,,128GB,51274,2,2025-01-27,Cash,Delivered,1
+355,Barr Jobbins,Samsung,,512GB,71037,2,2025-02-14,PayPal,Shipped,2
+356,Lou Bedminster,Xiaomi,,256GB,40304,2,2024-07-25,Credit Card,Shipped,2
+357,Trudie Cawley,Apple,,256GB,80613,2,2025-06-30,PayPal,Processing,1
+358,Val Boddam,Oneplus,,1TB,20649,5,2025-07-10,PayPal,Processing,1
+359,Korney Padefield,Apple,,512GB,86692,1,2024-11-23,Maya,Shipped,2
+360,Rubin Skinner,Google,,1TB,27927,5,2025-10-25,GCash,Delivered,2
+361,Hyman Gibbe,Samsung,,256GB,93389,1,2025-01-25,Cash,Shipped,1
+362,Tabbatha Mochan,Samsung,,256GB,24353,2,2024-11-23,PayPal,Cancelled,1
+363,Alessandra Varker,Xiaomi,,256GB,74140,4,2025-12-11,Cash,Delivered,3
+364,Ximenes Blaxton,Xiaomi,,512GB,78398,5,2024-06-13,PayPal,Shipped,2
+365,Aurel McGonigle,Google,,1TB,76449,5,2025-01-27,GCash,Processing,2
+366,Letisha Symper,Oneplus,,512GB,83089,4,2025-07-11,GCash,Shipped,1
+367,Kaia Nears,Oneplus,,1TB,61163,3,2025-06-01,Credit Card,Shipped,2
+368,Marjorie Pawlyn,Oneplus,,512GB,64226,3,2024-02-26,PayPal,Delivered,3
+369,Wynnie O'Crotty,Xiaomi,,512GB,23137,3,2024-05-24,Maya,Processing,2
+370,Robb Rudsdell,Oneplus,,512GB,72896,3,2024-01-20,Credit Card,Cancelled,2
+371,Tabby Ioselev,Samsung,,256GB,89267,1,2025-10-18,GCash,Cancelled,1
+372,Georgine Ravelus,Samsung,,128GB,62324,3,2024-07-16,PayPal,Cancelled,3
+373,Yardley Jahnel,Oneplus,,256GB,91048,5,2024-05-24,GCash,Shipped,2
+374,Steffen Somerfield,Google,,256GB,16538,4,2025-10-08,Cash,Delivered,2
+375,Howie Cowperthwaite,Google,,1TB,78510,1,2024-03-08,Maya,Delivered,2
+376,Mahmud Yes,Xiaomi,,128GB,49623,5,2025-06-10,PayPal,Shipped,1
+377,Peggie Huge,Samsung,,256GB,66592,2,2024-10-07,Cash,Cancelled,1
+378,Cale Hobden,Samsung,,128GB,76184,1,2024-06-04,Maya,Cancelled,2
+379,Ivor Ferandez,Google,,1TB,66341,4,2024-07-26,GCash,Cancelled,1
+380,Mariel Nurse,Oneplus,,512GB,59780,4,2024-10-22,PayPal,Cancelled,3
+381,Stacy Cornew,Apple,,256GB,44349,2,2025-11-23,Maya,Delivered,3
+382,Erik Drable,Oneplus,,1TB,78197,1,2024-08-13,Maya,Delivered,1
+383,Elston Ballaam,Samsung,,512GB,71172,2,2025-11-29,Cash,Shipped,2
+384,Monique Creighton,Xiaomi,,1TB,61082,2,2024-12-05,Maya,Cancelled,3
+385,Valina Giorgione,Samsung,,128GB,72498,5,2024-12-26,Maya,Delivered,1
+386,Yasmeen Leggatt,Apple,,1TB,42031,5,2024-07-25,PayPal,Cancelled,3
+387,Arie Shilliday,Xiaomi,,1TB,73839,4,2025-08-29,Credit Card,Processing,2
+388,Mort Gambles,Oneplus,,256GB,47286,5,2024-08-22,GCash,Processing,1
+389,Sorcha Mathon,Oneplus,,256GB,61694,4,2024-02-10,PayPal,Cancelled,1
+390,Reed Ogelbe,Xiaomi,,256GB,19768,4,2024-07-11,GCash,Processing,3
+391,Blithe Michael,Xiaomi,,1TB,29957,2,2024-03-29,Credit Card,Shipped,1
+392,Dynah De Vaar,Apple,,128GB,42547,4,2024-05-26,Credit Card,Cancelled,3
+393,Ekaterina Giamo,Oneplus,,512GB,68621,4,2024-05-04,GCash,Delivered,2
+394,Lynn Fake,Oneplus,,1TB,35699,1,2025-07-21,GCash,Processing,2
+395,Enrico Howle,Xiaomi,,512GB,33268,3,2024-12-11,Cash,Delivered,3
+396,Rosabella Wegner,Oneplus,,128GB,38205,2,2025-10-24,Credit Card,Cancelled,3
+397,Israel Mumbey,Oneplus,,128GB,58319,2,2024-11-08,Credit Card,Cancelled,1
+398,Benedikta Rosthorn,Samsung,,128GB,93653,3,2024-03-20,Cash,Processing,3
+399,Gary Carleton,Google,,128GB,92212,2,2024-01-09,Credit Card,Shipped,2
+400,Nels Ascraft,Xiaomi,,256GB,48894,1,2024-10-12,GCash,Shipped,2
+401,Brook Raiston,Samsung,,128GB,74366,2,2024-03-16,PayPal,Delivered,3
+402,Abraham Doelle,Oneplus,,512GB,26565,4,2024-01-23,GCash,Delivered,1
+403,Myron Pendrigh,Samsung,,1TB,15853,2,2024-04-15,GCash,Shipped,1
+404,Kinny Mowles,Google,,1TB,19101,4,2024-05-30,PayPal,Delivered,1
+405,Robby Spreag,Xiaomi,,1TB,20726,5,2025-11-08,Cash,Delivered,3
+406,Florry Toffanelli,Xiaomi,,128GB,29271,4,2024-04-05,Credit Card,Processing,2
+407,Anton Corston,Samsung,,128GB,44033,3,2024-10-22,Maya,Cancelled,3
+408,Chaddy Starrs,Oneplus,,1TB,50160,2,2025-05-31,Cash,Processing,2
+409,Rudie Mellor,Oneplus,,128GB,15264,5,2024-09-27,Credit Card,Cancelled,2
+410,Obadias Carl,Google,,128GB,46122,4,2024-06-06,Credit Card,Delivered,2
+411,Cory Ashment,Oneplus,,512GB,28056,3,2024-08-30,Credit Card,Cancelled,2
+412,Denver Baskerville,Apple,,512GB,28548,3,2025-10-25,PayPal,Shipped,2
+413,Justinn Newlands,Google,,1TB,44369,4,2025-04-27,GCash,Cancelled,1
+414,Umberto Saipy,Oneplus,,512GB,92742,4,2025-10-21,GCash,Shipped,3
+415,Claresta Borborough,Xiaomi,,512GB,61036,4,2025-01-24,Maya,Cancelled,3
+416,Sharity Rochford,Google,,512GB,86860,5,2025-10-21,PayPal,Processing,1
+417,Sherlock Drynan,Xiaomi,,512GB,25609,2,2024-10-04,Maya,Delivered,1
+418,Sargent Bloxland,Apple,,1TB,52146,4,2024-05-25,Credit Card,Delivered,2
+419,Trudy Walles,Xiaomi,,128GB,80217,1,2025-04-15,Credit Card,Delivered,3
+420,Dar Oliveti,Apple,,1TB,33603,1,2024-12-21,Maya,Shipped,1
+421,Cele Burberry,Apple,,1TB,66140,2,2024-08-11,PayPal,Cancelled,1
+422,Lil Raiment,Xiaomi,,512GB,54917,3,2024-04-26,PayPal,Delivered,3
+423,Sunny Barday,Apple,,256GB,25051,1,2025-11-25,Credit Card,Shipped,3
+424,Lilli Giurio,Oneplus,,1TB,67013,2,2025-07-17,Maya,Shipped,3
+425,Maggie Ciottoi,Samsung,,1TB,64524,4,2025-11-04,Cash,Processing,2
+426,Bret Noods,Oneplus,,1TB,49535,5,2024-10-12,PayPal,Processing,2
+427,Georgine Cottham,Google,,1TB,57755,5,2024-07-06,Credit Card,Shipped,1
+428,Alysa Spreckley,Xiaomi,,128GB,45026,1,2024-12-10,Credit Card,Cancelled,2
+429,Dolly Kibel,Google,,256GB,38209,2,2025-06-03,Maya,Delivered,3
+430,Avram McConnal,Oneplus,,128GB,73161,5,2024-04-29,Cash,Processing,2
+431,Jade Maplestone,Oneplus,,256GB,67836,5,2024-10-31,Credit Card,Shipped,3
+432,Bruis Shellcross,Xiaomi,,512GB,33624,4,2025-05-16,Cash,Processing,1
+433,Alexandro Gogerty,Samsung,,256GB,66312,3,2025-05-03,PayPal,Delivered,2
+434,Jim MacMorland,Apple,,512GB,84259,3,2025-09-29,PayPal,Cancelled,2
+435,Nicolas Rabl,Google,,128GB,58224,5,2024-09-05,Maya,Processing,2
+436,Fabe Jobe,Apple,,128GB,58568,3,2024-08-24,Cash,Delivered,1
+437,Easter Gasparro,Apple,,256GB,25296,1,2025-11-13,GCash,Shipped,2
+438,Rene Benwell,Samsung,,512GB,68873,4,2025-07-19,GCash,Shipped,2
+439,Gloriane Blumfield,Samsung,,1TB,76902,2,2025-03-11,Cash,Shipped,3
+440,Suzanne Georgi,Xiaomi,,512GB,53640,2,2025-10-14,Cash,Processing,3
+441,Waylan Crombie,Apple,,512GB,71263,3,2025-03-13,PayPal,Delivered,3
+442,Lexy Shrubb,Apple,,256GB,15541,1,2024-02-22,Credit Card,Processing,1
+443,Gannie Lulham,Oneplus,,1TB,31707,1,2024-03-11,Cash,Shipped,3
+444,Lloyd Kennard,Oneplus,,512GB,29951,1,2024-03-21,Credit Card,Delivered,2
+445,Brigitte Feldstein,Xiaomi,,128GB,28897,5,2025-09-14,Cash,Cancelled,1
+446,Erek Shone,Oneplus,,1TB,85337,4,2024-10-20,Maya,Processing,1
+447,Salvidor Duddy,Google,,1TB,68166,3,2025-03-25,GCash,Processing,1
+448,Rosco Banstead,Google,,128GB,51234,5,2024-08-23,Cash,Processing,2
+449,Garfield Roddick,Oneplus,,256GB,76987,2,2024-05-13,Credit Card,Cancelled,1
+450,Boony Lundberg,Samsung,,512GB,42982,5,2025-04-13,Credit Card,Cancelled,2
+451,Emmie Grinikhinov,Oneplus,,1TB,16287,5,2025-11-27,GCash,Processing,3
+452,Mendy Murdie,Apple,,128GB,65628,5,2024-12-07,PayPal,Processing,1
+453,Jobie Manicomb,Google,,1TB,88376,2,2024-04-07,Credit Card,Delivered,3
+454,Moss Yearns,Apple,,1TB,87165,4,2025-01-22,PayPal,Cancelled,1
+455,Thorsten Hurrion,Samsung,,512GB,23854,5,2025-10-07,Credit Card,Delivered,2
+456,Shayne Pixton,Oneplus,,1TB,25180,5,2025-10-25,Cash,Shipped,1
+457,Tish Sales,Oneplus,,1TB,44267,2,2024-04-01,Credit Card,Delivered,3
+458,Dirk Bursnoll,Oneplus,,128GB,94105,5,2025-02-14,Cash,Cancelled,1
+459,Agnese Yoskowitz,Samsung,,256GB,57934,3,2025-05-05,GCash,Cancelled,1
+460,Tabbie Higgonet,Apple,,512GB,32706,2,2024-06-23,PayPal,Delivered,1
+461,Dorothee Conradie,Xiaomi,,512GB,21525,4,2024-08-09,Credit Card,Cancelled,3
+462,Nevil Burndred,Oneplus,,256GB,69114,5,2025-12-08,PayPal,Shipped,1
+463,Lenna Hyam,Oneplus,,256GB,26184,1,2024-01-22,Credit Card,Cancelled,1
+464,Elton Sima,Xiaomi,,1TB,25808,3,2024-04-07,PayPal,Cancelled,3
+465,Tammi Neaves,Google,,128GB,51089,5,2024-02-12,Maya,Delivered,2
+466,Weidar Ducrow,Google,,256GB,15557,5,2024-08-02,Credit Card,Shipped,2
+467,Elaine Collingwood,Samsung,,1TB,81496,2,2025-03-07,Credit Card,Processing,2
+468,Jocelyn Finden,Oneplus,,256GB,17297,4,2025-01-08,Credit Card,Cancelled,1
+469,Marnia Rubenfeld,Samsung,,256GB,90381,5,2024-03-17,Cash,Shipped,2
+470,Timmy Mattiacci,Xiaomi,,256GB,55052,5,2024-03-12,PayPal,Delivered,1
+471,Jeanine Zanitti,Apple,,128GB,90659,3,2024-05-23,GCash,Shipped,2
+472,Friederike Lax,Oneplus,,128GB,82051,4,2024-04-02,PayPal,Cancelled,2
+473,Jemmie Tures,Apple,,512GB,60225,5,2024-08-07,GCash,Shipped,3
+474,Fidelio Lilloe,Xiaomi,,512GB,63144,4,2025-10-02,Cash,Cancelled,2
+475,Tyler Darko,Apple,,1TB,48400,2,2024-12-14,GCash,Shipped,3
+476,Malena Brahmer,Xiaomi,,128GB,55634,1,2025-06-24,PayPal,Shipped,2
+477,Melinde Birdseye,Google,,256GB,87242,1,2025-09-06,Maya,Cancelled,2
+478,Pincas Reynish,Xiaomi,,1TB,72692,3,2025-05-24,GCash,Delivered,3
+479,Valeria Viste,Google,,1TB,72824,2,2024-03-27,Credit Card,Processing,2
+480,Starlin Pontain,Google,,512GB,50988,5,2025-09-04,PayPal,Processing,2
+481,Barclay Beekman,Apple,,256GB,71055,4,2025-07-10,Cash,Cancelled,3
+482,Lorenzo Minards,Google,,128GB,25277,5,2024-01-11,Credit Card,Processing,3
+483,Catriona Wrotchford,Apple,,128GB,90423,2,2024-06-03,GCash,Delivered,1
+484,Aurelie Dorset,Xiaomi,,1TB,89700,3,2024-10-06,Cash,Cancelled,2
+485,Jenda Ebunoluwa,Xiaomi,,256GB,30680,1,2024-06-07,Credit Card,Shipped,2
+486,Ernaline Gaitskill,Samsung,,256GB,78091,4,2025-04-17,Credit Card,Shipped,3
+487,Matthiew Conor,Oneplus,,128GB,74572,5,2025-10-21,Cash,Cancelled,2
+488,Locke Kittless,Oneplus,,256GB,45206,4,2024-01-25,Cash,Processing,1
+489,Stacy Dymond,Samsung,,1TB,35505,4,2024-01-16,GCash,Delivered,2
+490,Redd Janca,Samsung,,1TB,60519,2,2024-12-12,Credit Card,Delivered,1
+491,Krystyna Stanfield,Samsung,,1TB,50940,1,2024-05-24,Credit Card,Delivered,3
+492,Linoel Jime,Xiaomi,,256GB,79833,1,2024-10-02,Credit Card,Delivered,2
+493,Luelle Preece,Apple,,1TB,60315,5,2025-10-26,GCash,Delivered,3
+494,Harp Helsdon,Xiaomi,,256GB,59262,2,2025-12-08,PayPal,Processing,1
+495,Case Hackinge,Google,,256GB,72073,1,2024-02-03,GCash,Shipped,1
+496,Marven Caudray,Samsung,,512GB,90660,5,2025-07-01,Maya,Processing,3
+497,Essa Reast,Apple,,256GB,58962,2,2024-03-23,PayPal,Shipped,2
+498,Katrinka Halpine,Oneplus,,256GB,72498,2,2024-05-01,PayPal,Processing,1
+499,Olvan Banting,Apple,,1TB,43935,1,2024-02-22,GCash,Cancelled,1
+500,Grannie Scraney,Apple,,128GB,77759,3,2024-04-02,Maya,Delivered,3
+501,Osbert Davall,Google,,512GB,24510,5,2025-10-01,PayPal,Processing,3
+502,Rutherford Bragger,Xiaomi,,512GB,40678,4,2025-12-17,Credit Card,Processing,2
+503,Ada Dellenty,Samsung,,1TB,63026,2,2024-03-14,Credit Card,Shipped,2
+504,Nancy Aberhart,Samsung,,256GB,52624,5,2025-09-04,GCash,Processing,1
+505,Kristen Rickardes,Samsung,,512GB,17072,2,2024-04-18,GCash,Cancelled,2
+506,Holly-anne McCalum,Google,,512GB,35555,2,2024-01-29,PayPal,Cancelled,2
+507,Erasmus Cantillion,Oneplus,,1TB,45986,3,2024-11-03,GCash,Shipped,2
+508,Eveline Peele,Oneplus,,512GB,16446,2,2025-01-04,PayPal,Delivered,1
+509,Kathi Fateley,Xiaomi,,256GB,35323,1,2025-09-11,PayPal,Shipped,3
+510,Laney Eyckelbeck,Samsung,,256GB,39074,4,2025-08-20,Credit Card,Processing,2
+511,Fenelia Kobera,Apple,,512GB,41667,1,2025-06-23,Credit Card,Shipped,2
+512,Dorie Whight,Google,,1TB,47503,3,2024-02-24,Maya,Cancelled,2
+513,Dennie Edgecombe,Apple,,128GB,80940,3,2025-08-28,PayPal,Delivered,1
+514,Jenny Avard,Oneplus,,1TB,87146,2,2025-06-21,GCash,Delivered,3
+515,Matthus Streatfeild,Oneplus,,512GB,31457,2,2024-03-08,PayPal,Delivered,3
+516,Townie Garza,Apple,,1TB,51831,1,2024-01-15,GCash,Shipped,1
+517,Ingaborg McCourtie,Oneplus,,256GB,72528,3,2025-05-01,Maya,Shipped,2
+518,Iosep Harry,Apple,,512GB,57827,5,2024-09-25,Cash,Processing,3
+519,Celestina Dewdeny,Apple,,512GB,64252,3,2025-06-22,Credit Card,Cancelled,2
+520,Orland Defau,Apple,,1TB,67109,3,2024-05-06,GCash,Delivered,2
+521,Benjamen Flanders,Samsung,,128GB,43430,2,2024-07-09,GCash,Processing,1
+522,Ingeberg Redpath,Xiaomi,,128GB,37157,5,2025-10-22,Credit Card,Delivered,1
+523,Nathaniel Soppit,Oneplus,,1TB,84621,4,2024-08-04,GCash,Cancelled,2
+524,Valida Tomblings,Samsung,,512GB,81774,4,2024-11-03,Maya,Shipped,1
+525,Karlene Fookes,Oneplus,,1TB,29941,5,2025-10-07,Cash,Cancelled,2
+526,Brook Temperley,Samsung,,512GB,94232,1,2025-02-22,GCash,Delivered,3
+527,Howie Adriano,Oneplus,,512GB,39165,3,2024-08-09,PayPal,Shipped,3
+528,Ardra Kitlee,Samsung,,256GB,63771,4,2024-04-15,GCash,Processing,1
+529,Meta Eltun,Oneplus,,256GB,55608,1,2025-05-28,GCash,Shipped,2
+530,Roman Spreull,Apple,,256GB,59973,1,2024-01-24,Maya,Shipped,3
+531,Kerwinn Denmead,Xiaomi,,512GB,50161,2,2024-04-26,GCash,Delivered,3
+532,Binky Bauduccio,Apple,,1TB,52592,3,2024-08-12,Maya,Processing,1
+533,Avigdor Cadney,Samsung,,256GB,64864,5,2025-06-01,Credit Card,Cancelled,1
+534,Marshall Haggata,Apple,,128GB,91337,4,2025-09-22,Credit Card,Cancelled,2
+535,Sherlock Thyng,Samsung,,128GB,84835,1,2025-07-04,GCash,Processing,1
+536,Barris Putterill,Xiaomi,,1TB,49160,5,2025-05-21,Credit Card,Delivered,3
+537,Nariko Rendle,Apple,,1TB,49691,4,2024-08-24,Maya,Cancelled,1
+538,Priscilla Faulds,Xiaomi,,512GB,74377,5,2024-12-25,Credit Card,Shipped,1
+539,Cassandry Knappitt,Google,,128GB,91530,5,2025-03-03,PayPal,Delivered,3
+540,Lyell Baake,Oneplus,,128GB,27448,4,2024-07-25,PayPal,Shipped,1
+541,Deane Waplinton,Oneplus,,256GB,30634,5,2024-01-06,GCash,Cancelled,1
+542,Aviva Deverall,Oneplus,,256GB,71951,5,2025-03-04,GCash,Cancelled,1
+543,Rana Goozee,Samsung,,256GB,15158,4,2024-05-20,GCash,Delivered,2
+544,Blinnie Crinion,Xiaomi,,256GB,19074,3,2025-05-02,Credit Card,Processing,2
+545,Mart Spaule,Xiaomi,,256GB,43427,3,2024-05-29,Cash,Shipped,3
+546,Michail McWhinnie,Xiaomi,,128GB,79122,3,2024-11-17,Cash,Delivered,1
+547,Alysia Goldring,Xiaomi,,128GB,57145,1,2025-11-15,PayPal,Delivered,3
+548,Meggie Itzkowicz,Oneplus,,256GB,38906,4,2025-11-06,Cash,Shipped,3
+549,Morena Berntsson,Samsung,,256GB,44646,1,2024-08-19,Maya,Processing,1
+550,Albertine Derisly,Oneplus,,1TB,37552,2,2025-12-05,GCash,Cancelled,3
+551,Shara Tuddall,Xiaomi,,256GB,50971,2,2024-02-29,PayPal,Processing,3
+552,Thomasa Cicchetto,Google,,512GB,72065,5,2025-11-24,Maya,Delivered,1
+553,Armin Shorthill,Xiaomi,,256GB,73910,4,2024-08-05,Cash,Processing,2
+554,Buddy Korneichik,Google,,128GB,46568,2,2025-09-22,Maya,Cancelled,1
+555,Marnia Natalie,Oneplus,,256GB,83468,4,2024-12-30,Credit Card,Delivered,3
+556,Sharai MacGiany,Samsung,,128GB,39729,3,2024-10-18,Credit Card,Cancelled,2
+557,Anthiathia Hovard,Google,,256GB,56285,2,2024-12-06,Maya,Shipped,3
+558,Sheree Coronas,Apple,,256GB,77991,2,2024-04-22,PayPal,Shipped,3
+559,Hersh O'Dennehy,Samsung,,256GB,53335,2,2024-12-27,Maya,Shipped,2
+560,Shirl Fish,Oneplus,,256GB,68698,4,2025-09-27,Maya,Shipped,2
+561,Othilia Sinisbury,Google,,128GB,60713,1,2024-03-21,Cash,Delivered,2
+562,Trev Thirlwall,Oneplus,,1TB,68645,2,2025-03-10,Cash,Delivered,2
+563,Jen Flett,Google,,512GB,15820,4,2024-05-09,PayPal,Processing,2
+564,Lissi McAree,Samsung,,1TB,15317,3,2025-09-04,PayPal,Processing,1
+565,Eveleen Gyrgorcewicx,Xiaomi,,512GB,42078,4,2025-12-25,GCash,Delivered,2
+566,Corina Naismith,Google,,512GB,76753,5,2024-06-21,PayPal,Cancelled,2
+567,Dierdre Bim,Apple,,128GB,23878,2,2025-05-21,PayPal,Delivered,3
+568,Byrann Gaytor,Apple,,128GB,36306,2,2025-08-31,Maya,Processing,3
+569,Karoline Smurfit,Samsung,,1TB,40351,2,2024-06-06,Credit Card,Delivered,3
+570,Martynne Corson,Google,,256GB,45931,4,2024-05-19,Credit Card,Processing,1
+571,Maxy Bourdon,Apple,,512GB,57005,2,2025-05-12,Maya,Delivered,3
+572,Esta Ficken,Oneplus,,256GB,25467,5,2025-04-12,Cash,Cancelled,3
+573,Chrisse Skilling,Xiaomi,,1TB,31140,5,2025-01-19,GCash,Shipped,3
+574,Rich Abramowsky,Samsung,,1TB,90785,2,2025-10-30,Cash,Delivered,3
+575,Paco Stead,Samsung,,256GB,54868,5,2024-04-20,PayPal,Processing,2
+576,Edgard Narramore,Apple,,256GB,87739,1,2024-05-16,Maya,Delivered,3
+577,Almira Poles,Google,,256GB,85806,3,2024-06-29,Maya,Cancelled,2
+578,Malorie Dan,Apple,,1TB,63058,5,2025-02-02,GCash,Processing,1
+579,Leigha Cloake,Apple,,128GB,86108,2,2025-10-24,Credit Card,Delivered,2
+580,Lillis Hornung,Xiaomi,,128GB,91204,5,2025-03-03,Cash,Shipped,2
+581,Deva Cullinane,Oneplus,,1TB,94473,2,2025-11-11,GCash,Shipped,2
+582,Budd Medford,Apple,,512GB,24235,5,2025-06-02,PayPal,Cancelled,1
+583,Nara Dunlop,Samsung,,512GB,80220,3,2025-11-21,Credit Card,Shipped,1
+584,Melba Lorie,Samsung,,128GB,25669,2,2024-09-03,Maya,Cancelled,1
+585,North Gorman,Apple,,128GB,70806,5,2025-03-01,GCash,Cancelled,2
+586,Briny Sterndale,Samsung,,128GB,67635,1,2024-04-11,GCash,Cancelled,1
+587,Emmalyn Sloegrave,Samsung,,1TB,16043,4,2024-12-22,PayPal,Shipped,1
+588,Monica Barthrup,Oneplus,,512GB,90517,3,2024-03-07,Maya,Shipped,3
+589,Marice Pawelek,Google,,256GB,55756,4,2024-05-09,PayPal,Delivered,3
+590,Sile Barbie,Oneplus,,128GB,93244,3,2025-05-11,Cash,Delivered,2
+591,Krisha Kennady,Apple,,256GB,86562,4,2024-12-08,Maya,Processing,1
+592,Thom Roskeilly,Samsung,,1TB,52134,2,2024-10-24,Maya,Delivered,3
+593,Francyne Hearson,Google,,256GB,20477,5,2024-02-02,Cash,Cancelled,3
+594,Matty Paulack,Google,,1TB,80889,2,2024-08-27,Credit Card,Processing,3
+595,Ave La Vigne,Apple,,128GB,92938,4,2024-02-12,Maya,Cancelled,1
+596,Bern Tesdale,Samsung,,1TB,53347,4,2025-11-29,PayPal,Cancelled,3
+597,Winnie Malek,Xiaomi,,256GB,71030,1,2025-10-26,PayPal,Shipped,1
+598,Amos Bamblett,Oneplus,,512GB,65189,2,2025-04-06,Maya,Processing,1
+599,Evey Galletly,Samsung,,1TB,20432,5,2025-05-25,Cash,Processing,2
+600,Lukas Cuff,Samsung,,256GB,67525,4,2025-01-11,Cash,Delivered,1
+601,Kellby Minichi,Google,,256GB,59576,4,2025-03-22,Cash,Shipped,2
+602,Esmaria Stiger,Xiaomi,,128GB,16524,1,2025-11-07,PayPal,Processing,3
+603,Annette Estick,Apple,,512GB,48293,4,2024-01-25,PayPal,Processing,1
+604,Freddy Pedrocco,Oneplus,,128GB,59870,1,2024-04-16,PayPal,Delivered,2
+605,Lilla Gautrey,Samsung,,128GB,27026,2,2025-11-02,Cash,Processing,2
+606,Ursola Rosindill,Apple,,1TB,61887,1,2025-10-21,Cash,Delivered,3
+607,Moreen Scandrick,Xiaomi,,256GB,27313,1,2024-03-11,GCash,Shipped,3
+608,Mellicent Saur,Apple,,1TB,73718,5,2025-05-23,Cash,Delivered,1
+609,Janetta Rennard,Apple,,128GB,22829,4,2025-11-01,Credit Card,Delivered,1
+610,Katie Birk,Google,,512GB,27238,4,2025-12-23,Credit Card,Shipped,3
+611,Albert Naismith,Xiaomi,,512GB,31831,5,2025-12-03,Cash,Shipped,1
+612,Eduino Peyzer,Google,,512GB,60712,2,2025-11-16,Cash,Processing,3
+613,Aile Soaper,Apple,,1TB,78782,3,2024-05-30,Maya,Processing,2
+614,Aldo Camoletto,Google,,1TB,74941,2,2024-09-20,Cash,Delivered,2
+615,Joanna Kondratenko,Xiaomi,,256GB,77204,3,2024-08-25,Cash,Delivered,2
+616,Tristam Carter,Samsung,,256GB,37464,3,2024-04-26,Maya,Shipped,3
+617,Vivian Letcher,Oneplus,,512GB,26733,2,2024-06-10,Credit Card,Cancelled,2
+618,Jim Verbrugge,Apple,,1TB,90241,2,2025-11-19,GCash,Cancelled,1
+619,Randie Vasenkov,Xiaomi,,128GB,37660,4,2024-01-10,Credit Card,Delivered,1
+620,Orsola McHaffy,Samsung,,512GB,29479,5,2024-01-14,Credit Card,Shipped,2
+621,Tiertza Crosswaite,Xiaomi,,128GB,79071,4,2024-08-22,PayPal,Delivered,2
+622,Christy Scutcheon,Xiaomi,,1TB,48350,1,2024-08-08,GCash,Processing,1
+623,Archibold Pitney,Xiaomi,,256GB,44479,2,2024-08-05,Cash,Processing,2
+624,Shani Howes,Samsung,,128GB,24296,2,2025-08-12,Cash,Shipped,1
+625,Broddy Leaver,Xiaomi,,256GB,50490,1,2025-09-17,GCash,Delivered,2
+626,Kori Yallowley,Xiaomi,,128GB,53683,5,2025-11-29,Credit Card,Delivered,2
+627,Rozelle Brome,Samsung,,128GB,81737,3,2024-03-21,Maya,Cancelled,3
+628,Bunni Szymonowicz,Samsung,,1TB,23748,3,2024-07-17,Credit Card,Shipped,1
+629,Harriott Scotchford,Google,,256GB,79093,1,2025-05-27,Cash,Delivered,2
+630,Baxter Pentelow,Google,,512GB,34648,1,2025-02-09,Credit Card,Shipped,3
+631,Skyler Scollan,Apple,,128GB,61240,3,2025-06-28,GCash,Processing,3
+632,Shaine Harrie,Apple,,512GB,19973,4,2025-04-05,Credit Card,Delivered,2
+633,Kimberlyn Enden,Samsung,,1TB,94399,3,2025-01-14,GCash,Delivered,1
+634,Kylen Dulanty,Xiaomi,,128GB,72409,3,2024-07-18,Credit Card,Cancelled,2
+635,Drusi Haugen,Samsung,,256GB,15555,3,2025-08-05,Maya,Cancelled,1
+636,Berry Puttnam,Xiaomi,,128GB,41479,3,2025-02-18,Maya,Cancelled,1
+637,Pennie Terren,Samsung,,128GB,86615,4,2024-02-06,PayPal,Cancelled,3
+638,Matelda Fautly,Apple,,512GB,36315,1,2024-01-01,Credit Card,Shipped,2
+639,Cameron Leedal,Oneplus,,256GB,36072,1,2025-02-11,Maya,Shipped,1
+640,Elaine holmes,Samsung,,256GB,86503,3,2024-01-12,PayPal,Processing,2
+641,Shawna Braganca,Xiaomi,,128GB,87156,3,2025-10-30,Cash,Delivered,3
+642,Teador Baumer,Samsung,,256GB,36517,2,2025-01-22,Maya,Shipped,3
+643,Etheline Stallard,Google,,512GB,34824,2,2025-06-29,PayPal,Shipped,1
+644,Shaun Radborn,Samsung,,1TB,44730,3,2025-11-14,Maya,Shipped,1
+645,Rayna Bitcheno,Xiaomi,,512GB,60174,5,2024-08-25,Cash,Shipped,3
+646,Adriano Lathe,Xiaomi,,1TB,26469,3,2024-02-26,PayPal,Delivered,3
+647,Lu Mousley,Apple,,512GB,40287,2,2024-05-26,GCash,Shipped,2
+648,Mickie Shirtcliffe,Samsung,,512GB,52938,2,2025-02-23,Cash,Processing,1
+649,Reinaldos Greenig,Xiaomi,,256GB,50510,3,2025-06-22,Maya,Shipped,2
+650,Poppy Ingles,Apple,,512GB,45886,1,2025-06-09,Cash,Delivered,1
+651,Robby Heavyside,Xiaomi,,128GB,27429,2,2024-06-13,Credit Card,Delivered,2
+652,Smith Werrilow,Oneplus,,128GB,47042,3,2025-10-05,PayPal,Shipped,1
+653,Clea Gosnold,Google,,256GB,55595,3,2024-03-24,Credit Card,Processing,3
+654,Osborne Persich,Apple,,128GB,89099,3,2025-11-05,PayPal,Processing,2
+655,Hal Brummell,Xiaomi,,512GB,57879,2,2024-09-08,Maya,Processing,2
+656,Grayce Cremins,Oneplus,,1TB,75755,1,2024-01-28,Maya,Processing,1
+657,Dannie Bissex,Google,,128GB,65731,2,2025-11-26,GCash,Delivered,2
+658,Washington Coghlin,Oneplus,,256GB,33735,3,2024-10-28,PayPal,Delivered,1
+659,Bartholomew Glanz,Apple,,512GB,69726,5,2024-10-17,Maya,Processing,3
+660,Janenna Bassick,Apple,,512GB,94038,1,2024-06-17,Cash,Processing,1
+661,Sally Buchanan,Google,,128GB,83475,5,2024-03-22,Cash,Delivered,2
+662,Ethelyn Wank,Xiaomi,,1TB,60673,5,2025-08-16,Cash,Shipped,1
+663,Rivy Fley,Oneplus,,1TB,16843,1,2024-08-28,GCash,Delivered,2
+664,Judye Messom,Xiaomi,,1TB,30521,3,2025-04-27,Credit Card,Cancelled,1
+665,Cathe Humerstone,Samsung,,1TB,32281,2,2025-09-02,Maya,Processing,1
+666,Helen Fazzioli,Oneplus,,128GB,69874,3,2024-12-17,Cash,Delivered,3
+667,Timothea Ritchie,Oneplus,,128GB,68421,2,2025-11-07,Cash,Delivered,3
+668,Caro Cherrison,Google,,128GB,15551,3,2024-04-26,Maya,Cancelled,2
+669,Karlis Lilbourne,Xiaomi,,1TB,71221,1,2024-11-07,PayPal,Cancelled,1
+670,Jenda Fidgin,Apple,,1TB,86537,5,2024-10-06,GCash,Cancelled,2
+671,Cordell Tissington,Samsung,,128GB,77310,4,2025-07-02,Credit Card,Cancelled,2
+672,Milena De Few,Google,,128GB,30314,3,2025-04-01,GCash,Shipped,1
+673,Pascal Skerman,Google,,1TB,41262,1,2025-07-09,GCash,Processing,3
+674,Romy Josskowitz,Samsung,,256GB,25913,5,2025-02-11,Cash,Shipped,1
+675,Shawn Waggitt,Xiaomi,,128GB,52875,3,2024-07-02,Cash,Shipped,3
+676,Ced Thomas,Xiaomi,,512GB,35849,5,2024-05-13,Credit Card,Shipped,1
+677,Constanta Greeveson,Samsung,,1TB,18511,1,2025-09-21,Credit Card,Processing,1
+678,Caroline Banyard,Oneplus,,128GB,89550,2,2025-07-09,Maya,Cancelled,1
+679,Henrieta Dorkins,Xiaomi,,256GB,79443,5,2024-09-04,GCash,Cancelled,2
+680,Jessie Launchbury,Google,,512GB,75630,2,2025-06-01,Cash,Cancelled,1
+681,Karlotta Chopy,Oneplus,,128GB,91676,2,2025-05-23,Cash,Delivered,2
+682,Wendeline Meadows,Oneplus,,512GB,52696,2,2024-01-30,Credit Card,Shipped,3
+683,Crawford Dudny,Samsung,,256GB,19095,4,2024-02-27,Maya,Delivered,2
+684,Shaun Championnet,Google,,512GB,91958,5,2025-04-30,PayPal,Processing,3
+685,Hayward Truggian,Oneplus,,128GB,29107,2,2024-03-10,GCash,Shipped,1
+686,Jolyn Dumbellow,Google,,512GB,30116,4,2024-06-19,GCash,Cancelled,1
+687,Harley Pantecost,Google,,512GB,91297,4,2024-01-30,Credit Card,Processing,3
+688,Nicolais Phant,Apple,,512GB,53490,5,2025-07-16,Credit Card,Cancelled,1
+689,Baldwin Piddocke,Oneplus,,128GB,64323,1,2025-02-28,Cash,Cancelled,3
+690,Penelopa Timberlake,Samsung,,256GB,90359,5,2024-08-16,GCash,Delivered,1
+691,Dietrich Braunthal,Xiaomi,,128GB,93619,3,2024-11-19,GCash,Shipped,2
+692,Ximenez McAlindon,Google,,512GB,36111,2,2025-11-23,Cash,Delivered,3
+693,Carlie Jeaneau,Apple,,256GB,75211,2,2024-01-19,Credit Card,Delivered,3
+694,Arabel Quadling,Google,,1TB,33215,3,2024-12-29,PayPal,Processing,3
+695,Maddie Bussey,Google,,128GB,79089,1,2024-02-15,Credit Card,Processing,3
+696,Dionis Brombell,Google,,512GB,68198,3,2024-02-24,Credit Card,Delivered,2
+697,Wilton Askie,Apple,,256GB,44873,3,2024-02-18,GCash,Shipped,3
+698,Edgar Latey,Apple,,512GB,77060,4,2024-07-23,PayPal,Shipped,3
+699,Aggy Lohde,Xiaomi,,1TB,22539,4,2025-03-30,Maya,Cancelled,2
+700,Reidar Ickovicz,Apple,,128GB,44911,5,2024-07-12,Credit Card,Processing,3
+701,Humphrey Newlove,Google,,1TB,46103,1,2024-03-08,PayPal,Shipped,3
+702,Giacopo Hengoed,Xiaomi,,1TB,21413,2,2024-12-06,Credit Card,Processing,2
+703,Jameson Mayho,Samsung,,1TB,70456,1,2025-01-30,Cash,Shipped,1
+704,Hirsch Colbran,Samsung,,512GB,28004,5,2024-01-29,Cash,Shipped,1
+705,Brody Donhardt,Google,,128GB,26492,4,2025-01-26,Credit Card,Cancelled,1
+706,Gabriela Szubert,Samsung,,128GB,58141,1,2025-06-05,Maya,Shipped,2
+707,Wallas Ritchard,Apple,,512GB,90961,1,2025-02-01,Credit Card,Delivered,2
+708,Massimiliano Cuerda,Xiaomi,,128GB,88050,2,2025-11-10,Credit Card,Delivered,3
+709,Harrietta Girardini,Google,,256GB,80341,2,2024-06-25,Maya,Shipped,2
+710,Mirabel Rigmond,Apple,,1TB,35192,4,2024-03-27,Credit Card,Cancelled,1
+711,Sonia Tixall,Samsung,,128GB,26514,1,2025-03-18,Maya,Cancelled,2
+712,Dru Poleykett,Oneplus,,128GB,17065,2,2024-11-09,Credit Card,Delivered,1
+713,Hastings Tollmache,Google,,512GB,33181,1,2025-03-04,GCash,Processing,3
+714,Fran Tytler,Oneplus,,1TB,88575,3,2025-05-14,Cash,Delivered,1
+715,Alta Wisden,Xiaomi,,512GB,91134,2,2025-12-13,Credit Card,Processing,2
+716,Gigi Wathell,Oneplus,,512GB,22710,5,2025-11-13,PayPal,Processing,1
+717,Timothy O'Garmen,Oneplus,,128GB,69181,3,2025-02-28,Cash,Cancelled,3
+718,Aidan Ramshay,Xiaomi,,512GB,15862,1,2024-05-02,Credit Card,Cancelled,3
+719,Ikey Coveney,Apple,,512GB,49255,4,2025-07-12,GCash,Delivered,2
+720,Willabella Adelberg,Apple,,128GB,29598,1,2025-01-31,PayPal,Shipped,3
+721,Bart Fifield,Apple,,512GB,35338,1,2024-05-08,Cash,Delivered,3
+722,Kimberlee Backen,Samsung,,256GB,87377,1,2024-12-04,GCash,Processing,2
+723,Meta Cummungs,Samsung,,256GB,47398,2,2024-04-14,Maya,Cancelled,1
+724,Lisha Robb,Apple,,256GB,37297,4,2025-10-12,Cash,Shipped,1
+725,Cristiano Clubb,Samsung,,128GB,40969,3,2025-08-02,PayPal,Delivered,3
+726,Brianne Bland,Samsung,,128GB,74966,3,2024-09-11,Credit Card,Delivered,2
+727,Silvie Neve,Google,,1TB,34167,4,2024-01-21,PayPal,Cancelled,2
+728,Wynne Lunk,Google,,128GB,34802,5,2025-08-19,Cash,Processing,1
+729,Edin McElwee,Samsung,,128GB,56897,2,2024-03-03,Maya,Cancelled,1
+730,Eleanor Wilacot,Google,,256GB,77159,1,2025-11-22,Maya,Delivered,2
+731,Othella Yearn,Samsung,,1TB,33396,3,2025-12-04,GCash,Cancelled,1
+732,Gayle Niccolls,Apple,,1TB,63413,3,2024-01-26,Credit Card,Cancelled,1
+733,Sonny Every,Google,,128GB,38664,4,2024-10-27,Credit Card,Cancelled,1
+734,Ivie Tatteshall,Apple,,1TB,16093,1,2024-06-10,Credit Card,Cancelled,1
+735,Stillman Mingey,Xiaomi,,1TB,66061,5,2024-07-10,Maya,Cancelled,2
+736,Piggy Danit,Oneplus,,1TB,72541,2,2024-08-21,Maya,Processing,1
+737,Gray Cleugh,Samsung,,128GB,83957,5,2024-11-06,GCash,Cancelled,1
+738,Batholomew Hustler,Google,,128GB,78696,3,2025-02-02,Credit Card,Cancelled,2
+739,Baldwin Carabet,Google,,1TB,18660,3,2024-04-06,GCash,Delivered,1
+740,Killie Gregoriou,Google,,1TB,38437,5,2024-11-18,Cash,Processing,3
+741,Renato Rutledge,Apple,,1TB,86235,4,2024-02-08,Cash,Shipped,1
+742,Alexandros Kynman,Google,,1TB,91371,5,2024-05-23,Credit Card,Processing,2
+743,Catie Corner,Oneplus,,256GB,59156,2,2024-07-26,PayPal,Shipped,2
+744,Becka Callard,Xiaomi,,512GB,72831,3,2024-01-15,Credit Card,Delivered,2
+745,Maryjane Filipowicz,Apple,,512GB,48718,1,2025-12-19,PayPal,Shipped,3
+746,Brantley Meriott,Google,,1TB,16932,4,2024-12-04,GCash,Shipped,2
+747,Klarika Goforth,Samsung,,1TB,30589,4,2025-11-12,Cash,Delivered,3
+748,Cortney Ferronel,Oneplus,,512GB,27891,4,2024-12-30,GCash,Cancelled,1
+749,Veronike Bremen,Xiaomi,,128GB,63548,3,2025-08-24,PayPal,Shipped,1
+750,Rickert Halleday,Oneplus,,128GB,67068,3,2025-05-12,Maya,Cancelled,2
+751,Halsey Guyonneau,Apple,,1TB,49028,4,2024-06-15,PayPal,Shipped,3
+752,Gal Klinck,Xiaomi,,256GB,44670,5,2025-04-09,Credit Card,Delivered,1
+753,Anna-diane Plumbridge,Apple,,256GB,64480,2,2024-02-02,Maya,Shipped,3
+754,Damara Leirmonth,Google,,512GB,85849,4,2025-02-16,PayPal,Delivered,2
+755,Daveen Rannigan,Apple,,256GB,69935,3,2025-12-18,Maya,Delivered,2
+756,Randolf Beare,Samsung,,1TB,68285,4,2025-07-06,Credit Card,Processing,2
+757,Roth Saintpierre,Xiaomi,,512GB,89331,1,2024-12-05,Cash,Shipped,1
+758,Fey Padbury,Apple,,256GB,53758,4,2025-01-06,GCash,Delivered,3
+759,Zora Winterborne,Google,,1TB,30609,2,2024-12-09,Cash,Processing,1
+760,Corinna Larvent,Xiaomi,,256GB,92263,4,2024-11-25,PayPal,Shipped,3
+761,Darice Salvadore,Xiaomi,,256GB,79134,2,2025-03-24,GCash,Shipped,3
+762,Godiva Franschini,Google,,256GB,51141,2,2025-09-30,GCash,Processing,2
+763,Fayette Sapwell,Apple,,256GB,37524,1,2025-12-13,Maya,Delivered,1
+764,Goddard Tigwell,Oneplus,,128GB,32138,2,2025-10-17,Maya,Shipped,3
+765,Adrien Savory,Xiaomi,,512GB,23176,5,2025-11-21,PayPal,Processing,3
+766,Garrot Cockell,Samsung,,128GB,74832,4,2024-02-03,Maya,Shipped,1
+767,Isa Bayman,Google,,512GB,70384,2,2024-01-27,PayPal,Shipped,3
+768,Biddie Vidineev,Xiaomi,,128GB,47005,4,2025-03-08,PayPal,Delivered,1
+769,Sabrina Boal,Samsung,,512GB,32896,4,2025-12-04,Cash,Delivered,3
+770,Luise Bailes,Google,,256GB,76323,3,2025-10-16,Maya,Delivered,3
+771,Dael Clousley,Apple,,512GB,88079,4,2025-12-22,Maya,Processing,1
+772,Audrey Stratley,Oneplus,,256GB,50397,4,2024-03-03,Cash,Delivered,1
+773,Frederica Cough,Google,,128GB,20556,5,2025-04-26,PayPal,Delivered,1
+774,Carie Sporle,Oneplus,,512GB,74266,3,2024-02-23,Maya,Shipped,3
+775,Ingrim Rylstone,Google,,1TB,83326,5,2024-10-12,Credit Card,Cancelled,1
+776,Pavel Iacobetto,Google,,512GB,66107,5,2024-03-15,Cash,Shipped,2
+777,Shellie Shieldon,Apple,,128GB,60227,3,2025-01-03,GCash,Cancelled,3
+778,Laurens Brampton,Samsung,,1TB,50031,4,2024-11-18,GCash,Processing,3
+779,Brandy Pitkins,Google,,128GB,18359,1,2025-01-15,GCash,Processing,1
+780,Lyndell Boij,Apple,,256GB,71517,4,2025-07-31,Maya,Shipped,2
+781,Northrop Danielsohn,Google,,512GB,55932,5,2025-07-21,Credit Card,Processing,2
+782,Ida Delouch,Samsung,,512GB,17532,1,2025-06-07,Credit Card,Shipped,2
+783,Bastien Ghidoni,Oneplus,,1TB,81226,5,2025-09-10,PayPal,Cancelled,2
+784,Storm O' Hogan,Oneplus,,256GB,16692,5,2025-10-06,GCash,Shipped,2
+785,Peta Pennetti,Samsung,,128GB,35253,1,2025-12-18,PayPal,Processing,2
+786,Stephannie Antognazzi,Google,,128GB,88077,1,2024-07-03,PayPal,Cancelled,1
+787,Cristabel MacGowing,Samsung,,1TB,65334,2,2024-07-02,Cash,Cancelled,2
+788,Benedick Jira,Samsung,,512GB,65098,3,2024-10-28,Credit Card,Delivered,3
+789,Lindsy Dungate,Xiaomi,,1TB,51556,5,2025-09-08,Credit Card,Delivered,3
+790,Jarad Surridge,Oneplus,,1TB,57899,5,2024-10-04,GCash,Delivered,1
+791,Tommy Grishukov,Oneplus,,128GB,16991,4,2024-01-25,Credit Card,Cancelled,2
+792,Cindelyn Pimblotte,Samsung,,256GB,17596,4,2024-01-19,Maya,Shipped,3
+793,Heywood Gurton,Google,,1TB,55750,2,2024-01-23,Maya,Processing,1
+794,Enoch Velte,Oneplus,,1TB,36431,5,2025-03-14,PayPal,Shipped,1
+795,Gay Pitney,Oneplus,,1TB,70658,1,2024-07-18,Credit Card,Shipped,2
+796,Shayna Scallon,Google,,1TB,62832,4,2025-12-09,Maya,Delivered,3
+797,Nahum Piotrkowski,Google,,128GB,24333,2,2025-02-23,Maya,Processing,3
+798,Jodi Phinnessy,Apple,,1TB,22513,1,2024-03-08,Maya,Shipped,3
+799,Bobbette Yakuntsov,Xiaomi,,128GB,24599,5,2024-09-19,Credit Card,Cancelled,2
+800,Cordie Adenot,Google,,128GB,38434,3,2024-01-19,Maya,Delivered,3
+801,Karisa Umpleby,Xiaomi,,128GB,89944,2,2025-08-07,Maya,Delivered,1
+802,Farrell Ismirnioglou,Oneplus,,512GB,43592,2,2025-04-29,Cash,Delivered,1
+803,Maude Jumonet,Apple,,256GB,84411,3,2025-08-26,GCash,Cancelled,2
+804,Silvana Churms,Apple,,128GB,21432,1,2024-02-06,Credit Card,Shipped,3
+805,Violetta Lamball,Apple,,1TB,75876,4,2024-03-18,Cash,Processing,2
+806,Eddie Radmer,Apple,,512GB,54302,2,2025-01-06,GCash,Cancelled,2
+807,Winifred Carvil,Xiaomi,,256GB,31605,5,2025-11-21,GCash,Cancelled,1
+808,Dan Waldocke,Oneplus,,128GB,93572,1,2025-01-26,Maya,Cancelled,3
+809,Korie Witherington,Apple,,128GB,27159,3,2024-01-21,PayPal,Cancelled,2
+810,Jaclyn Nutbeem,Xiaomi,,1TB,79407,5,2025-11-09,Credit Card,Delivered,1
+811,Tony Greasley,Google,,256GB,49762,4,2024-09-04,Credit Card,Processing,2
+812,Tommy Longfellow,Samsung,,1TB,19356,2,2024-10-04,PayPal,Delivered,3
+813,April Hampshaw,Apple,,1TB,20787,2,2025-07-03,Maya,Processing,3
+814,Lana Drinkhall,Apple,,512GB,60759,2,2024-06-01,Cash,Delivered,1
+815,Sileas Pyrke,Xiaomi,,128GB,50909,1,2024-11-04,PayPal,Delivered,1
+816,Theobald Leonida,Samsung,,128GB,70916,2,2025-08-08,PayPal,Processing,2
+817,Josh Quinnelly,Oneplus,,128GB,64398,4,2024-08-30,Cash,Delivered,3
+818,Guillermo Ponde,Samsung,,256GB,78599,5,2024-05-04,GCash,Shipped,3
+819,Cindee Rawlinson,Samsung,,1TB,61866,2,2025-11-12,Maya,Cancelled,1
+820,Car Hurlestone,Oneplus,,256GB,69257,3,2025-08-13,Cash,Delivered,1
+821,Horatia Bastow,Google,,512GB,31757,2,2024-04-29,Cash,Cancelled,2
+822,Raquel Bambridge,Samsung,,1TB,90932,5,2024-05-29,GCash,Processing,1
+823,Wallie Lawlan,Xiaomi,,512GB,19026,1,2024-01-26,PayPal,Delivered,1
+824,Helene Oliva,Xiaomi,,128GB,51801,5,2024-01-07,PayPal,Shipped,1
+825,Fritz Mannix,Oneplus,,256GB,15714,2,2025-07-31,Maya,Processing,1
+826,Mira Dacke,Google,,256GB,27908,3,2025-05-16,Cash,Processing,2
+827,Christabella Stithe,Samsung,,1TB,79385,5,2025-05-13,Credit Card,Cancelled,3
+828,Anne-marie Boldison,Apple,,512GB,41946,5,2025-08-31,Maya,Processing,3
+829,Winfield Alexandersson,Samsung,,512GB,70965,5,2024-07-07,PayPal,Processing,2
+830,Hunt Skypp,Samsung,,512GB,70350,3,2025-07-07,Cash,Delivered,1
+831,Esmeralda Boutellier,Xiaomi,,256GB,91564,3,2025-01-14,PayPal,Shipped,2
+832,Ennis Kirkhouse,Apple,,512GB,48682,3,2024-02-27,Credit Card,Shipped,2
+833,Bee Weyland,Samsung,,512GB,75880,3,2025-07-02,Credit Card,Shipped,2
+834,Loralee Toy,Oneplus,,128GB,62235,2,2024-10-13,GCash,Cancelled,2
+835,Stinky Reeme,Samsung,,256GB,91514,3,2024-11-17,PayPal,Shipped,2
+836,Wynne Ramey,Google,,128GB,28189,4,2024-03-04,GCash,Shipped,2
+837,Garvin Banford,Apple,,1TB,56907,1,2025-01-31,PayPal,Cancelled,1
+838,Anne-marie Lummus,Apple,,512GB,32176,4,2024-10-28,GCash,Delivered,3
+839,Mathilde Whitsun,Apple,,256GB,63951,3,2025-11-27,PayPal,Shipped,1
+840,Yolande Mannagh,Samsung,,1TB,42641,2,2025-05-24,GCash,Delivered,1
+841,Jolie Boast,Xiaomi,,256GB,79034,5,2024-08-20,GCash,Delivered,1
+842,Romona Chalcot,Oneplus,,512GB,34745,5,2025-01-23,Credit Card,Shipped,3
+843,Pegeen Tisun,Oneplus,,128GB,64820,2,2024-08-06,PayPal,Cancelled,1
+844,Briney Tacker,Apple,,1TB,34999,5,2025-03-29,Maya,Shipped,3
+845,Ann-marie Graffin,Oneplus,,512GB,66792,1,2025-06-25,Credit Card,Delivered,2
+846,Hali Peto,Google,,128GB,76555,2,2025-10-10,PayPal,Processing,3
+847,Robb Simoneau,Google,,256GB,73102,3,2025-01-15,Maya,Shipped,1
+848,Kit Doorey,Apple,,128GB,31031,5,2024-02-08,GCash,Delivered,2
+849,Kevyn MacDearmont,Oneplus,,256GB,73003,5,2025-10-13,PayPal,Processing,1
+850,Blinny Blachford,Xiaomi,,256GB,58718,4,2024-02-07,Maya,Delivered,2
+851,Noella Chinge de Hals,Samsung,,128GB,19903,5,2024-08-15,GCash,Cancelled,2
+852,Rozamond Sprowell,Google,,1TB,68590,1,2025-07-16,PayPal,Shipped,2
+853,Lynnet Heater,Google,,256GB,37863,3,2025-09-07,PayPal,Delivered,1
+854,Kanya Bome,Apple,,1TB,80355,1,2025-02-01,Credit Card,Processing,1
+855,Clemmy Luebbert,Apple,,256GB,15210,5,2025-12-13,Cash,Processing,2
+856,Reuven Bartoletti,Apple,,1TB,27792,3,2024-07-06,PayPal,Cancelled,3
+857,Claribel McKennan,Xiaomi,,128GB,73272,4,2025-12-22,PayPal,Processing,3
+858,Karly Dametti,Xiaomi,,512GB,75759,1,2025-10-20,PayPal,Delivered,3
+859,Corabel Ludlom,Apple,,128GB,38491,1,2024-08-31,GCash,Cancelled,3
+860,Cheslie Rosenstiel,Apple,,128GB,58374,5,2024-02-11,Cash,Cancelled,3
+861,Hyacinthia Sweeting,Xiaomi,,256GB,46491,4,2024-02-15,Cash,Shipped,3
+862,Sorcha Strike,Google,,128GB,53723,2,2024-11-07,Credit Card,Delivered,2
+863,Emmett Mapes,Samsung,,1TB,55197,2,2024-03-18,GCash,Processing,2
+864,Free Ranson,Apple,,1TB,28874,3,2024-05-12,Maya,Processing,1
+865,Caren Mulles,Oneplus,,1TB,28864,5,2024-05-15,GCash,Cancelled,1
+866,Veronike Ellett,Google,,256GB,26581,5,2025-01-09,Credit Card,Cancelled,3
+867,Carny Staggs,Xiaomi,,128GB,90024,4,2025-12-15,Maya,Cancelled,3
+868,Prissie Bourrel,Xiaomi,,1TB,51974,2,2025-02-16,GCash,Cancelled,1
+869,Kerri Swaffer,Samsung,,512GB,40551,4,2025-09-23,Cash,Processing,1
+870,Rahal Gair,Apple,,128GB,42957,5,2025-07-11,Maya,Delivered,2
+871,Juanita Brizland,Oneplus,,512GB,31152,2,2024-04-05,GCash,Cancelled,2
+872,Coleen Ovens,Google,,512GB,94197,5,2024-06-02,GCash,Shipped,2
+873,Alisa Maudlin,Xiaomi,,128GB,74738,4,2024-11-12,Credit Card,Cancelled,3
+874,Alvinia Tebbutt,Samsung,,1TB,59937,2,2025-02-13,Credit Card,Shipped,1
+875,Ethan Scudders,Google,,256GB,21064,4,2025-07-20,Cash,Processing,1
+876,Carlita Looby,Xiaomi,,256GB,67626,4,2024-12-11,Cash,Shipped,3
+877,Leilah Westall,Google,,512GB,24929,3,2024-09-07,Maya,Cancelled,3
+878,Marna Parsonson,Apple,,1TB,42161,1,2025-04-13,GCash,Processing,2
+879,Audrey Lacrouts,Xiaomi,,1TB,70407,4,2025-06-12,PayPal,Shipped,1
+880,Aurthur Shank,Xiaomi,,128GB,75619,2,2025-01-02,PayPal,Processing,1
+881,Abra Massingberd,Google,,1TB,43423,3,2025-05-22,GCash,Cancelled,2
+882,Ivar Viggars,Google,,512GB,37463,5,2024-07-19,Maya,Cancelled,1
+883,Lanna Petit,Apple,,128GB,89310,4,2025-02-06,Cash,Shipped,1
+884,Kesley Crates,Apple,,256GB,84399,4,2024-04-03,GCash,Shipped,1
+885,Nikkie Wimbush,Samsung,,1TB,35558,2,2024-12-29,Credit Card,Delivered,1
+886,Carlie Casina,Google,,512GB,47901,2,2024-09-29,Cash,Delivered,1
+887,Gavrielle Chin,Google,,256GB,50085,2,2024-03-22,Credit Card,Cancelled,2
+888,Demetri Ferry,Xiaomi,,128GB,46026,5,2024-02-20,PayPal,Shipped,1
+889,Fin Helliker,Xiaomi,,512GB,31353,5,2024-07-12,Credit Card,Delivered,3
+890,Arnaldo Youle,Oneplus,,512GB,73127,5,2024-01-07,Credit Card,Shipped,2
+891,Clement Hardy-Piggin,Oneplus,,256GB,36141,3,2024-12-25,Credit Card,Cancelled,1
+892,Adair Chapling,Apple,,128GB,28681,3,2025-01-11,GCash,Delivered,1
+893,Bevan Ivetts,Google,,1TB,64323,1,2024-12-11,Maya,Delivered,3
+894,Free Bearman,Oneplus,,128GB,60694,2,2025-08-29,Cash,Shipped,3
+895,Christophe Puttan,Google,,256GB,45288,3,2024-05-14,Maya,Shipped,2
+896,Cassi Rangell,Oneplus,,1TB,16148,5,2024-03-18,Credit Card,Shipped,3
+897,Caresa Tattersill,Oneplus,,256GB,82195,2,2024-04-30,Maya,Processing,1
+898,Ellie Collumbell,Oneplus,,512GB,39219,4,2025-09-23,GCash,Cancelled,3
+899,Shalom Suddick,Samsung,,128GB,28501,3,2024-08-09,Maya,Shipped,2
+900,Christoforo Lochhead,Apple,,128GB,30258,1,2024-05-19,PayPal,Cancelled,3
+901,Neil Edgeworth,Samsung,,1TB,48221,3,2025-06-04,Cash,Processing,3
+902,Evaleen Sigfrid,Xiaomi,,256GB,83217,3,2025-10-04,PayPal,Delivered,1
+903,Robyn Wason,Xiaomi,,512GB,57336,2,2024-10-09,Maya,Cancelled,1
+904,Meridel Gledstane,Xiaomi,,128GB,87161,1,2025-02-19,GCash,Shipped,1
+905,Angelico Trowel,Apple,,512GB,41589,1,2024-06-26,Maya,Delivered,1
+906,Boy Pollicatt,Xiaomi,,1TB,58837,3,2025-12-03,Credit Card,Processing,2
+907,Willi Harverson,Oneplus,,512GB,92724,2,2025-12-09,Credit Card,Delivered,2
+908,Agnesse Prettejohns,Xiaomi,,512GB,73863,5,2024-05-07,PayPal,Cancelled,1
+909,Whitney Jozsika,Samsung,,512GB,25315,4,2025-11-19,Maya,Processing,2
+910,Chic Patient,Apple,,1TB,36927,4,2024-03-13,Cash,Shipped,2
+911,Svend Stollman,Xiaomi,,512GB,67202,1,2024-07-19,Maya,Cancelled,2
+912,Emlyn Manneville,Oneplus,,1TB,70527,2,2025-12-13,GCash,Shipped,2
+913,Herb Redgewell,Oneplus,,512GB,35542,2,2024-01-22,PayPal,Cancelled,1
+914,Ardine Cornfoot,Apple,,256GB,26204,4,2024-10-10,GCash,Shipped,2
+915,Sidnee Gradly,Samsung,,1TB,72060,5,2025-02-11,PayPal,Shipped,3
+916,Borden Fullilove,Google,,128GB,30097,3,2025-07-09,Cash,Processing,3
+917,Frankie Van Castele,Apple,,128GB,47055,1,2025-07-18,Cash,Delivered,1
+918,Giulio Tarbatt,Apple,,128GB,74970,2,2024-07-31,Credit Card,Delivered,1
+919,Melba Barstow,Google,,1TB,70956,3,2024-09-28,Credit Card,Cancelled,2
+920,Sheppard Carrack,Xiaomi,,512GB,61661,5,2024-07-08,Maya,Shipped,3
+921,Brier Cardenas,Samsung,,256GB,45885,4,2024-08-09,Credit Card,Processing,1
+922,Cyb Saberton,Google,,256GB,31944,5,2025-01-11,Credit Card,Shipped,1
+923,Theressa Succamore,Google,,1TB,71606,4,2024-08-15,PayPal,Shipped,2
+924,Fabian Girardeau,Xiaomi,,256GB,51082,5,2025-01-15,Maya,Delivered,1
+925,Javier Harmour,Oneplus,,512GB,20941,3,2025-03-11,Cash,Shipped,1
+926,Mela Burney,Apple,,512GB,59763,1,2024-03-24,PayPal,Delivered,2
+927,Madalyn Annatt,Google,,256GB,42722,5,2024-02-01,Cash,Processing,2
+928,Rowena Eddy,Google,,1TB,93966,5,2024-10-31,Cash,Delivered,2
+929,Berny Ridgers,Samsung,,128GB,34859,2,2025-08-27,GCash,Processing,1
+930,Eadith Orro,Google,,128GB,20707,3,2025-11-04,Maya,Cancelled,2
+931,Titus Abrehart,Samsung,,512GB,57929,5,2025-04-07,PayPal,Delivered,2
+932,Estell Tunsley,Xiaomi,,1TB,37214,3,2024-08-31,Credit Card,Processing,2
+933,Rafaelita Hacaud,Samsung,,1TB,65152,5,2025-12-20,PayPal,Shipped,2
+934,Shirl Whitwham,Oneplus,,256GB,79753,2,2025-05-05,GCash,Cancelled,3
+935,Michaela Philipsen,Google,,128GB,67394,1,2024-02-01,Credit Card,Cancelled,3
+936,Lowrance Trenouth,Xiaomi,,128GB,22609,1,2025-04-16,Maya,Cancelled,2
+937,Lorens Sofe,Oneplus,,256GB,60419,4,2024-03-18,GCash,Delivered,1
+938,Colan Tattersfield,Google,,256GB,53698,4,2025-04-02,GCash,Delivered,3
+939,Alexis Ziebart,Apple,,128GB,47960,5,2025-07-17,GCash,Processing,1
+940,Irvin Godspeede,Oneplus,,128GB,35365,4,2024-04-17,Credit Card,Processing,2
+941,Alleyn Redolfi,Apple,,128GB,64961,5,2025-08-02,GCash,Processing,1
+942,Eb O' Connell,Xiaomi,,256GB,93138,2,2025-11-29,Cash,Cancelled,3
+943,Jodie Jeske,Xiaomi,,512GB,67837,5,2024-12-02,GCash,Delivered,3
+944,Karina Gulberg,Google,,512GB,72499,2,2025-12-02,Cash,Processing,1
+945,Shermie Antushev,Xiaomi,,512GB,48584,2,2025-04-01,GCash,Cancelled,3
+946,Nataline Cull,Apple,,256GB,35434,4,2024-03-14,GCash,Shipped,1
+947,Anderea Lancaster,Oneplus,,256GB,43461,3,2025-05-20,Credit Card,Cancelled,3
+948,Colver Maskill,Samsung,,1TB,57719,5,2025-02-21,Maya,Delivered,3
+949,Florenza Cankett,Oneplus,,256GB,47057,2,2024-09-24,PayPal,Cancelled,3
+950,Tessy Scoyne,Oneplus,,256GB,55848,5,2024-08-31,Credit Card,Cancelled,2
+951,Fabian Demkowicz,Xiaomi,,128GB,83771,1,2024-08-14,Cash,Delivered,3
+952,Quincy Buret,Samsung,,1TB,89143,3,2024-01-20,Cash,Processing,1
+953,Erich Trice,Xiaomi,,128GB,25603,5,2025-05-11,PayPal,Processing,2
+954,Viviana Carnihan,Samsung,,1TB,64593,4,2024-12-26,GCash,Processing,1
+955,Wrennie Wrench,Apple,,256GB,20167,1,2025-08-22,Maya,Shipped,1
+956,Rutherford Sprason,Oneplus,,128GB,31492,5,2025-04-05,GCash,Cancelled,1
+957,Lance McReynolds,Samsung,,256GB,43452,4,2025-03-16,GCash,Delivered,1
+958,Grata Adams,Apple,,512GB,54609,1,2025-07-01,Maya,Shipped,1
+959,Johanna Bevis,Apple,,1TB,38257,5,2025-12-15,Maya,Shipped,1
+960,Reagan Brewse,Oneplus,,256GB,65034,5,2024-10-12,Credit Card,Processing,3
+961,Kipp Facer,Oneplus,,1TB,70562,2,2025-02-01,Credit Card,Cancelled,1
+962,Fields Gilhouley,Samsung,,512GB,86760,2,2025-10-29,Maya,Cancelled,3
+963,Jewel Sydall,Oneplus,,256GB,67983,3,2024-03-04,Credit Card,Shipped,2
+964,Jerrylee Cottage,Xiaomi,,512GB,47450,5,2024-12-10,Maya,Cancelled,1
+965,Tedi Doorey,Apple,,512GB,21747,4,2025-01-07,Maya,Cancelled,1
+966,Marcia Dabs,Google,,512GB,90234,2,2024-04-16,Cash,Cancelled,1
+967,Gianna Dulton,Apple,,256GB,44666,5,2024-03-04,GCash,Shipped,2
+968,Charley Canwell,Apple,,256GB,38358,2,2024-12-19,GCash,Shipped,1
+969,Ricoriki Gronno,Oneplus,,1TB,48138,5,2024-06-29,PayPal,Delivered,2
+970,Artie Hovie,Samsung,,512GB,74852,5,2025-06-22,Maya,Cancelled,3
+971,Stacy Alywin,Apple,,128GB,69547,4,2025-11-25,Maya,Shipped,2
+972,Erastus Glasper,Oneplus,,1TB,27234,2,2024-02-23,Cash,Cancelled,2
+973,Isa Cleworth,Samsung,,1TB,58939,5,2025-05-03,PayPal,Cancelled,3
+974,Malva Devall,Samsung,,1TB,78295,4,2024-08-07,PayPal,Shipped,1
+975,Crosby Grange,Apple,,128GB,79599,2,2025-03-03,Cash,Shipped,2
+976,Rosemarie Plowell,Samsung,,256GB,88893,4,2025-04-10,Maya,Cancelled,2
+977,Davida Queyeiro,Xiaomi,,512GB,69304,2,2025-09-24,PayPal,Cancelled,2
+978,Darsey Thoresby,Oneplus,,512GB,75772,3,2025-03-27,GCash,Cancelled,3
+979,Sheila Crusham,Oneplus,,1TB,57444,4,2025-02-16,GCash,Cancelled,3
+980,Stanton Gilleson,Xiaomi,,256GB,83378,4,2024-11-01,GCash,Delivered,1
+981,Edee Kubatsch,Apple,,128GB,65384,3,2024-05-20,GCash,Delivered,2
+982,Randene McIlmurray,Oneplus,,128GB,15210,2,2024-01-16,Cash,Delivered,1
+983,Torey Featonby,Google,,512GB,94083,4,2024-03-26,PayPal,Processing,1
+984,Aili Niessen,Xiaomi,,256GB,60150,5,2025-12-08,GCash,Delivered,1
+985,Lu Menichelli,Xiaomi,,128GB,76937,2,2024-07-16,PayPal,Processing,3
+986,Tris Duckett,Xiaomi,,1TB,83280,4,2024-11-17,Maya,Delivered,2
+987,Kerri Sabatini,Samsung,,128GB,77260,1,2024-03-29,GCash,Processing,1
+988,Evy Kisbey,Google,,256GB,90534,4,2025-07-09,Credit Card,Shipped,2
+989,Winna Etches,Apple,,256GB,70862,1,2025-04-26,Cash,Cancelled,2
+990,Kissee Carrol,Apple,,512GB,35306,1,2024-09-04,GCash,Delivered,3
+991,Blythe Ellacott,Oneplus,,128GB,49437,2,2024-02-17,Maya,Delivered,2
+992,Christoffer Schurcke,Xiaomi,,256GB,51492,4,2024-01-19,Maya,Delivered,3
+993,Jaime Pogosian,Google,,256GB,75966,3,2025-12-06,Credit Card,Processing,1
+994,Burnard Winslade,Xiaomi,,256GB,62096,5,2025-03-11,Credit Card,Shipped,3
+995,Aurea Padly,Apple,,512GB,51807,5,2024-11-09,GCash,Processing,3
+996,Celestina Siemens,Oneplus,,1TB,42799,3,2025-04-13,GCash,Cancelled,3
+997,Aggi Twaits,Xiaomi,,512GB,26260,4,2025-07-01,GCash,Processing,2
+998,Andi Stapele,Samsung,,512GB,33921,1,2024-06-20,Credit Card,Delivered,3
+999,Jaimie Loadman,Apple,,256GB,16094,3,2024-12-30,Cash,Processing,1
+1000,Rex Kingswell,Oneplus,,128GB,67333,4,2025-04-15,Maya,Cancelled,3
